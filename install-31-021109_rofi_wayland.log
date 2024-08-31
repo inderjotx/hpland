@@ -1,0 +1,238 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  m4
+Suggested packages:
+  bison-doc m4-doc
+The following NEW packages will be installed:
+  bison m4
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 992 kB of archives.
+After this operation, 3,154 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/main amd64 m4 amd64 1.4.19-4build1 [244 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/main amd64 bison amd64 2:3.8.2+dfsg-1build2 [749 kB]
+Fetched 992 kB in 8s (129 kB/s)
+Selecting previously unselected package m4.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293253 files and directories currently installed.)
+Preparing to unpack .../m4_1.4.19-4build1_amd64.deb ...
+Unpacking m4 (1.4.19-4build1) ...
+Selecting previously unselected package bison.
+Preparing to unpack .../bison_2%3a3.8.2+dfsg-1build2_amd64.deb ...
+Unpacking bison (2:3.8.2+dfsg-1build2) ...
+Setting up m4 (1.4.19-4build1) ...
+Setting up bison (2:3.8.2+dfsg-1build2) ...
+update-alternatives: using /usr/bin/bison.yacc to provide /usr/bin/yacc (yacc) in auto mode
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for install-info (7.1-3build2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libfl-dev libfl2
+Suggested packages:
+  flex-doc
+The following NEW packages will be installed:
+  flex libfl-dev libfl2
+0 upgraded, 3 newly installed, 0 to remove and 2 not upgraded.
+Need to get 317 kB of archives.
+After this operation, 1,068 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/main amd64 flex amd64 2.6.4-8.2build1 [301 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libfl2 amd64 2.6.4-8.2build1 [9,768 B]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libfl-dev amd64 2.6.4-8.2build1 [6,250 B]
+Fetched 317 kB in 2s (202 kB/s)
+Selecting previously unselected package flex.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293429 files and directories currently installed.)
+Preparing to unpack .../flex_2.6.4-8.2build1_amd64.deb ...
+Unpacking flex (2.6.4-8.2build1) ...
+Selecting previously unselected package libfl2:amd64.
+Preparing to unpack .../libfl2_2.6.4-8.2build1_amd64.deb ...
+Unpacking libfl2:amd64 (2.6.4-8.2build1) ...
+Selecting previously unselected package libfl-dev:amd64.
+Preparing to unpack .../libfl-dev_2.6.4-8.2build1_amd64.deb ...
+Unpacking libfl-dev:amd64 (2.6.4-8.2build1) ...
+Setting up flex (2.6.4-8.2build1) ...
+Setting up libfl2:amd64 (2.6.4-8.2build1) ...
+Setting up libfl-dev:amd64 (2.6.4-8.2build1) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for install-info (7.1-3build2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  pandoc-data
+Suggested packages:
+  texlive-latex-recommended texlive-xetex texlive-luatex pandoc-citeproc
+  texlive-latex-extra context wkhtmltopdf librsvg2-bin groff ghc php python
+  r-base-core libjs-mathjax libjs-katex citation-style-language-styles
+The following NEW packages will be installed:
+  pandoc pandoc-data
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 26.9 MB of archives.
+After this operation, 200 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 pandoc-data all 3.1.3-1 [92.4 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 pandoc amd64 3.1.3+ds-2 [26.9 MB]
+Fetched 26.9 MB in 13s (2,135 kB/s)
+Selecting previously unselected package pandoc-data.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293517 files and directories currently installed.)
+Preparing to unpack .../pandoc-data_3.1.3-1_all.deb ...
+Unpacking pandoc-data (3.1.3-1) ...
+Selecting previously unselected package pandoc.
+Preparing to unpack .../pandoc_3.1.3+ds-2_amd64.deb ...
+Unpacking pandoc (3.1.3+ds-2) ...
+Setting up pandoc-data (3.1.3-1) ...
+Setting up pandoc (3.1.3+ds-2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+Suggested packages:
+  doxygen-latex doxygen-doc doxygen-gui graphviz
+The following NEW packages will be installed:
+  doxygen
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 5,201 kB of archives.
+After this operation, 20.7 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 doxygen amd64 1.9.8+ds-2build5 [5,201 kB]
+Fetched 5,201 kB in 2s (2,251 kB/s)
+Selecting previously unselected package doxygen.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293736 files and directories currently installed.)
+Preparing to unpack .../doxygen_1.9.8+ds-2build5_amd64.deb ...
+Unpacking doxygen (1.9.8+ds-2build5) ...
+Setting up doxygen (1.9.8+ds-2build5) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libtinyxml2-10
+Suggested packages:
+  cppcheck-gui clang-tidy
+The following NEW packages will be installed:
+  cppcheck libtinyxml2-10
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 2,169 kB of archives.
+After this operation, 9,618 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libtinyxml2-10 amd64 10.0.0+dfsg-2 [32.5 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 cppcheck amd64 2.13.0-2ubuntu3 [2,136 kB]
+Fetched 2,169 kB in 4s (486 kB/s)
+Selecting previously unselected package libtinyxml2-10:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293754 files and directories currently installed.)
+Preparing to unpack .../libtinyxml2-10_10.0.0+dfsg-2_amd64.deb ...
+Unpacking libtinyxml2-10:amd64 (10.0.0+dfsg-2) ...
+Selecting previously unselected package cppcheck.
+Preparing to unpack .../cppcheck_2.13.0-2ubuntu3_amd64.deb ...
+Unpacking cppcheck (2.13.0-2ubuntu3) ...
+Setting up libtinyxml2-10:amd64 (10.0.0+dfsg-2) ...
+Setting up cppcheck (2.13.0-2ubuntu3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  ruby-diff-lcs
+Suggested packages:
+  ohcount-doc
+The following NEW packages will be installed:
+  ohcount ruby-diff-lcs
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 406 kB of archives.
+After this operation, 1,561 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 ruby-diff-lcs all 1.5.1-1 [22.8 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 ohcount amd64 4.0.0-4build2 [383 kB]
+Fetched 406 kB in 3s (139 kB/s)
+Selecting previously unselected package ruby-diff-lcs.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293848 files and directories currently installed.)
+Preparing to unpack .../ruby-diff-lcs_1.5.1-1_all.deb ...
+Unpacking ruby-diff-lcs (1.5.1-1) ...
+Selecting previously unselected package ohcount.
+Preparing to unpack .../ohcount_4.0.0-4build2_amd64.deb ...
+Unpacking ohcount (4.0.0-4build2) ...
+Setting up ruby-diff-lcs (1.5.1-1) ...
+Setting up ohcount (4.0.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  libmpdclient-dev
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 29.3 kB of archives.
+After this operation, 225 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libmpdclient-dev amd64 2.22-1.1build1 [29.3 kB]
+Fetched 29.3 kB in 1s (47.0 kB/s)
+Selecting previously unselected package libmpdclient-dev:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293914 files and directories currently installed.)
+Preparing to unpack .../libmpdclient-dev_2.22-1.1build1_amd64.deb ...
+Unpacking libmpdclient-dev:amd64 (2.22-1.1build1) ...
+Setting up libmpdclient-dev:amd64 (2.22-1.1build1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  libnl-3-dev
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 99.5 kB of archives.
+After this operation, 628 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libnl-3-dev amd64 3.7.0-0.3build1 [99.5 kB]
+Fetched 99.5 kB in 1s (97.2 kB/s)
+Selecting previously unselected package libnl-3-dev:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293964 files and directories currently installed.)
+Preparing to unpack .../libnl-3-dev_3.7.0-0.3build1_amd64.deb ...
+Unpacking libnl-3-dev:amd64 (3.7.0-0.3build1) ...
+Setting up libnl-3-dev:amd64 (3.7.0-0.3build1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+Suggested packages:
+  libasound2-doc
+The following NEW packages will be installed:
+  libasound2-dev
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 115 kB of archives.
+After this operation, 714 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libasound2-dev amd64 1.2.11-1build2 [115 kB]
+Fetched 115 kB in 1s (105 kB/s)
+Selecting previously unselected package libasound2-dev:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 294116 files and directories currently installed.)
+Preparing to unpack .../libasound2-dev_1.2.11-1build2_amd64.deb ...
+Unpacking libasound2-dev:amd64 (1.2.11-1build2) ...
+Setting up libasound2-dev:amd64 (1.2.11-1build2) ...

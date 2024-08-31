@@ -1,0 +1,201 @@
+[33m[NOTE](B[m Installing cargo ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  libgit2-1.7 libhttp-parser2.9 libssh2-1t64 libstd-rust-1.75 libstd-rust-dev
+  libgit2-1.7 libhttp-parser2.9 libssh2-1t64 libstd-rust-1.75 libstd-rust-dev
+  rustc
+  rustc
+Suggested packages:
+  cargo-doc llvm-17 lld-17 clang-17
+Suggested packages:
+  cargo-doc llvm-17 lld-17 clang-17
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  cargo libgit2-1.7 libhttp-parser2.9 libssh2-1t64 libstd-rust-1.75
+  cargo libgit2-1.7 libhttp-parser2.9 libssh2-1t64 libstd-rust-1.75
+  libstd-rust-dev rustc
+  libstd-rust-dev rustc
+0 upgraded, 7 newly installed, 0 to remove and 2 not upgraded.
+Need to get 70.5 MB of archives.
+After this operation, 297 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libhttp-parser2.9 amd64 2.9.4-6build1 [22.3 kB]
+0 upgraded, 7 newly installed, 0 to remove and 2 not upgraded.
+Need to get 70.5 MB of archives.
+After this operation, 297 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libhttp-parser2.9 amd64 2.9.4-6build1 [22.3 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libssh2-1t64 amd64 1.11.0-4.1build2 [120 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libssh2-1t64 amd64 1.11.0-4.1build2 [120 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libgit2-1.7 amd64 1.7.2+ds-1ubuntu3 [529 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libgit2-1.7 amd64 1.7.2+ds-1ubuntu3 [529 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 libstd-rust-1.75 amd64 1.75.0+dfsg0ubuntu1-0ubuntu7.1 [20.0 MB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 libstd-rust-1.75 amd64 1.75.0+dfsg0ubuntu1-0ubuntu7.1 [20.0 MB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 libstd-rust-dev amd64 1.75.0+dfsg0ubuntu1-0ubuntu7.1 [40.6 MB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 libstd-rust-dev amd64 1.75.0+dfsg0ubuntu1-0ubuntu7.1 [40.6 MB]
+Get:6 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 rustc amd64 1.75.0+dfsg0ubuntu1-0ubuntu7.1 [3,183 kB]
+Get:6 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 rustc amd64 1.75.0+dfsg0ubuntu1-0ubuntu7.1 [3,183 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 cargo amd64 1.75.0+dfsg0ubuntu1-0ubuntu7.1 [6,053 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 cargo amd64 1.75.0+dfsg0ubuntu1-0ubuntu7.1 [6,053 kB]
+Fetched 70.5 MB in 15s (4,811 kB/s)
+Fetched 70.5 MB in 15s (4,811 kB/s)
+Selecting previously unselected package libhttp-parser2.9:amd64.
+(Reading database ... Selecting previously unselected package libhttp-parser2.9:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293103 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 293103 files and directories currently installed.)
+Preparing to unpack .../0-libhttp-parser2.9_2.9.4-6build1_amd64.deb ...
+Preparing to unpack .../0-libhttp-parser2.9_2.9.4-6build1_amd64.deb ...
+Unpacking libhttp-parser2.9:amd64 (2.9.4-6build1) ...
+Unpacking libhttp-parser2.9:amd64 (2.9.4-6build1) ...
+Selecting previously unselected package libssh2-1t64:amd64.
+Selecting previously unselected package libssh2-1t64:amd64.
+Preparing to unpack .../1-libssh2-1t64_1.11.0-4.1build2_amd64.deb ...
+Preparing to unpack .../1-libssh2-1t64_1.11.0-4.1build2_amd64.deb ...
+Unpacking libssh2-1t64:amd64 (1.11.0-4.1build2) ...
+Unpacking libssh2-1t64:amd64 (1.11.0-4.1build2) ...
+Selecting previously unselected package libgit2-1.7:amd64.
+Selecting previously unselected package libgit2-1.7:amd64.
+Preparing to unpack .../2-libgit2-1.7_1.7.2+ds-1ubuntu3_amd64.deb ...
+Preparing to unpack .../2-libgit2-1.7_1.7.2+ds-1ubuntu3_amd64.deb ...
+Unpacking libgit2-1.7:amd64 (1.7.2+ds-1ubuntu3) ...
+Unpacking libgit2-1.7:amd64 (1.7.2+ds-1ubuntu3) ...
+Selecting previously unselected package libstd-rust-1.75:amd64.
+Selecting previously unselected package libstd-rust-1.75:amd64.
+Preparing to unpack .../3-libstd-rust-1.75_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Preparing to unpack .../3-libstd-rust-1.75_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Unpacking libstd-rust-1.75:amd64 (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Unpacking libstd-rust-1.75:amd64 (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Selecting previously unselected package libstd-rust-dev:amd64.
+Selecting previously unselected package libstd-rust-dev:amd64.
+Preparing to unpack .../4-libstd-rust-dev_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Preparing to unpack .../4-libstd-rust-dev_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Unpacking libstd-rust-dev:amd64 (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Unpacking libstd-rust-dev:amd64 (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Selecting previously unselected package rustc.
+Selecting previously unselected package rustc.
+Preparing to unpack .../5-rustc_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Preparing to unpack .../5-rustc_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Unpacking rustc (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Unpacking rustc (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Selecting previously unselected package cargo.
+Selecting previously unselected package cargo.
+Preparing to unpack .../6-cargo_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Preparing to unpack .../6-cargo_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Unpacking cargo (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Unpacking cargo (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up libstd-rust-1.75:amd64 (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up libstd-rust-1.75:amd64 (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up libstd-rust-dev:amd64 (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up libstd-rust-dev:amd64 (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up rustc (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up rustc (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up libssh2-1t64:amd64 (1.11.0-4.1build2) ...
+Setting up libssh2-1t64:amd64 (1.11.0-4.1build2) ...
+Setting up libhttp-parser2.9:amd64 (2.9.4-6build1) ...
+Setting up libhttp-parser2.9:amd64 (2.9.4-6build1) ...
+Setting up libgit2-1.7:amd64 (1.7.2+ds-1ubuntu3) ...
+Setting up libgit2-1.7:amd64 (1.7.2+ds-1ubuntu3) ...
+Setting up cargo (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up cargo (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+[1A[K[32m[OK](B[m cargo was installed.
+[33m[NOTE](B[m Installing liblz4-dev ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  liblz4-dev
+  liblz4-dev
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 87.6 kB of archives.
+After this operation, 282 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 liblz4-dev amd64 1.9.4-1build1.1 [87.6 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 87.6 kB of archives.
+After this operation, 282 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble-updates/main amd64 liblz4-dev amd64 1.9.4-1build1.1 [87.6 kB]
+Fetched 87.6 kB in 1s (87.6 kB/s)
+Fetched 87.6 kB in 1s (87.6 kB/s)
+Selecting previously unselected package liblz4-dev:amd64.
+(Reading database ... Selecting previously unselected package liblz4-dev:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293243 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 293243 files and directories currently installed.)
+Preparing to unpack .../liblz4-dev_1.9.4-1build1.1_amd64.deb ...
+Preparing to unpack .../liblz4-dev_1.9.4-1build1.1_amd64.deb ...
+Unpacking liblz4-dev:amd64 (1.9.4-1build1.1) ...
+Unpacking liblz4-dev:amd64 (1.9.4-1build1.1) ...
+Setting up liblz4-dev:amd64 (1.9.4-1build1.1) ...
+Setting up liblz4-dev:amd64 (1.9.4-1build1.1) ...
+[1A[K[32m[OK](B[m liblz4-dev was installed.
+[32m[OK](B[m rustc is already installed. Skipping...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 2 not upgraded.
+Need to get 0 B/6,053 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293253 files and directories currently installed.)
+Preparing to unpack .../cargo_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Unpacking cargo (1.75.0+dfsg0ubuntu1-0ubuntu7.1) over (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up cargo (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 2 not upgraded.
+Need to get 0 B/87.6 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293253 files and directories currently installed.)
+Preparing to unpack .../liblz4-dev_1.9.4-1build1.1_amd64.deb ...
+Unpacking liblz4-dev:amd64 (1.9.4-1build1.1) over (1.9.4-1build1.1) ...
+Setting up liblz4-dev:amd64 (1.9.4-1build1.1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 2 not upgraded.
+Need to get 0 B/3,183 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 293253 files and directories currently installed.)
+Preparing to unpack .../rustc_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Unpacking rustc (1.75.0+dfsg0ubuntu1-0ubuntu7.1) over (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up rustc (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Processing triggers for man-db (2.12.0-4build2) ...

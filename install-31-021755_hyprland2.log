@@ -1,0 +1,43 @@
+-en !NOTE: Please note make install does not compile Hyprland and only installs the already built files.
+mkdir -p /usr/local/share/wayland-sessions
+mkdir -p /usr/local/bin
+mkdir -p /usr/local/share/hyprland
+mkdir -p /usr/local/share/bash-completion/completions
+mkdir -p /usr/local/share/fish/vendor_completions.d
+mkdir -p /usr/local/share/zsh/site-functions
+cp -f ./build/Hyprland /usr/local/bin
+cp -f ./build/hyprctl/hyprctl /usr/local/bin
+cp -f ./build/hyprpm/hyprpm /usr/local/bin
+cp -f ./hyprctl/hyprctl.bash /usr/local/share/bash-completion/completions/hyprctl
+cp -f ./hyprctl/hyprctl.fish /usr/local/share/fish/vendor_completions.d/hyprctl.fish
+cp -f ./hyprctl/hyprctl.zsh /usr/local/share/zsh/site-functions/_hyprctl
+cp -f ./hyprpm/hyprpm.bash /usr/local/share/bash-completion/completions/hyprpm
+cp -f ./hyprpm/hyprpm.fish /usr/local/share/fish/vendor_completions.d/hyprpm.fish
+cp -f ./hyprpm/hyprpm.zsh /usr/local/share/zsh/site-functions/_hyprpm
+chmod 755 /usr/local/bin/Hyprland
+chmod 755 /usr/local/bin/hyprctl
+chmod 755 /usr/local/bin/hyprpm
+cd /usr/local/bin && ln -sf Hyprland hyprland
+if [ ! -f /usr/local/share/wayland-sessions/hyprland.desktop ]; then cp ./example/hyprland.desktop /usr/local/share/wayland-sessions; fi
+cp ./assets/wall* /usr/local/share/hyprland
+mkdir -p /usr/local/share/xdg-desktop-portal
+cp ./assets/hyprland-portals.conf /usr/local/share/xdg-desktop-portal
+mkdir -p /usr/local/share/man/man1
+install -m644 ./docs/*.1 /usr/local/share/man/man1
+make installheaders
+make[1]: Entering directory '/home/inderharrysingh/hyperx/Ubuntu-Hyprland/Hyprland'
+rm -fr /usr/local/include/hyprland
+mkdir -p /usr/local/include/hyprland
+mkdir -p /usr/local/include/hyprland/protocols
+mkdir -p /usr/local/include/hyprland/wlroots-hyprland
+mkdir -p /usr/local/share/pkgconfig
+find src -name '*.h*' -print0 | cpio --quiet -0dump /usr/local/include/hyprland
+cd subprojects/wlroots-hyprland/include && find . -name '*.h*' -print0 | cpio --quiet -0dump /usr/local/include/hyprland/wlroots-hyprland && cd ../../..
+cd subprojects/wlroots-hyprland/build/include && find . -name '*.h*' -print0 | cpio --quiet -0dump /usr/local/include/hyprland/wlroots-hyprland && cd ../../../..
+cp ./protocols/*-protocol.h /usr/local/include/hyprland/protocols
+cp ./build/hyprland.pc /usr/local/share/pkgconfig
+if [ -d /usr/share/pkgconfig ]; then cp ./build/hyprland.pc /usr/share/pkgconfig 2>/dev/null || true; fi
+chmod -R 755 /usr/local/include/hyprland
+chmod 755 /usr/local/share/pkgconfig
+make[1]: Leaving directory '/home/inderharrysingh/hyperx/Ubuntu-Hyprland/Hyprland'
+[32m[OK](B[m Hyprland installed successfully.

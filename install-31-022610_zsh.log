@@ -1,0 +1,47 @@
+[32m[OK](B[m zsh is already installed. Skipping...
+[33m[NOTE](B[m Installing zplug ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  libapache2-mod-wsgi-py3 libgulkan-0.15-0t64 libjpeg62 libnsl2
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+  postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  zplug
+The following NEW packages will be installed:
+  zplug
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 75.8 kB of archives.
+After this operation, 327 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 zplug all 2.4.2-2 [75.8 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 75.8 kB of archives.
+After this operation, 327 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 zplug all 2.4.2-2 [75.8 kB]
+Fetched 75.8 kB in 3s (26.0 kB/s)
+Fetched 75.8 kB in 3s (26.0 kB/s)
+Selecting previously unselected package zplug.
+(Reading database ... Selecting previously unselected package zplug.
+(Reading database ... (Reading database ... (Reading database ... 5%(Reading database ... 10%5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 296392 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 296392 files and directories currently installed.)
+Preparing to unpack .../archives/zplug_2.4.2-2_all.deb ...
+Preparing to unpack .../archives/zplug_2.4.2-2_all.deb ...
+Unpacking zplug (2.4.2-2) ...
+Unpacking zplug (2.4.2-2) ...
+Setting up zplug (2.4.2-2) ...
+Setting up zplug (2.4.2-2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m zplug was installed.
+[33m[NOTE](B[m Pokemon Installation process completed
+Directory .oh-my-zsh already exists. Skipping re-installation.
+Directory zsh-autosuggestions already exists. Skipping cloning.
+[33m[NOTE](B[m Shell changed successfully to zsh.

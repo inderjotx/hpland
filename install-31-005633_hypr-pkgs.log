@@ -1,0 +1,2468 @@
+[33m[NOTE](B[m Installing cliphist ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  wl-clipboard
+The following additional packages will be installed:
+  wl-clipboard
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  cliphist wl-clipboard
+  cliphist wl-clipboard
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 700 kB of archives.
+After this operation, 1,833 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 wl-clipboard amd64 2.2.1-1build1 [33.4 kB]
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 700 kB of archives.
+After this operation, 1,833 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 wl-clipboard amd64 2.2.1-1build1 [33.4 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 cliphist amd64 0.4.0-2ubuntu0.1 [666 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 cliphist amd64 0.4.0-2ubuntu0.1 [666 kB]
+Fetched 700 kB in 2s (390 kB/s)
+Fetched 700 kB in 2s (390 kB/s)
+Selecting previously unselected package wl-clipboard.
+(Reading database ... Selecting previously unselected package wl-clipboard.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... (Reading database ... 50%50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 286982 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 286982 files and directories currently installed.)
+Preparing to unpack .../wl-clipboard_2.2.1-1build1_amd64.deb ...
+Preparing to unpack .../wl-clipboard_2.2.1-1build1_amd64.deb ...
+Unpacking wl-clipboard (2.2.1-1build1) ...
+Unpacking wl-clipboard (2.2.1-1build1) ...
+Selecting previously unselected package cliphist.
+Selecting previously unselected package cliphist.
+Preparing to unpack .../cliphist_0.4.0-2ubuntu0.1_amd64.deb ...
+Preparing to unpack .../cliphist_0.4.0-2ubuntu0.1_amd64.deb ...
+Unpacking cliphist (0.4.0-2ubuntu0.1) ...
+Unpacking cliphist (0.4.0-2ubuntu0.1) ...
+Setting up wl-clipboard (2.2.1-1build1) ...
+Setting up wl-clipboard (2.2.1-1build1) ...
+Setting up cliphist (0.4.0-2ubuntu0.1) ...
+Setting up cliphist (0.4.0-2ubuntu0.1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m cliphist was installed.
+[33m[NOTE](B[m Installing grim ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  grim
+  grim
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 16.0 kB of archives.
+After this operation, 54.3 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 grim amd64 1.4.0+ds-2build2 [16.0 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 16.0 kB of archives.
+After this operation, 54.3 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 grim amd64 1.4.0+ds-2build2 [16.0 kB]
+Fetched 16.0 kB in 1s (16.1 kB/s)
+Fetched 16.0 kB in 1s (16.1 kB/s)
+Selecting previously unselected package grim.
+(Reading database ... Selecting previously unselected package grim.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... (Reading database ... 55%55%(Reading database ... (Reading database ... 60%60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 287000 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 287000 files and directories currently installed.)
+Preparing to unpack .../grim_1.4.0+ds-2build2_amd64.deb ...
+Preparing to unpack .../grim_1.4.0+ds-2build2_amd64.deb ...
+Unpacking grim (1.4.0+ds-2build2) ...
+Unpacking grim (1.4.0+ds-2build2) ...
+Setting up grim (1.4.0+ds-2build2) ...
+Setting up grim (1.4.0+ds-2build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m grim was installed.
+[32m[OK](B[m gvfs is already installed. Skipping...
+[32m[OK](B[m gvfs-backends is already installed. Skipping...
+[32m[OK](B[m inxi is already installed. Skipping...
+[33m[NOTE](B[m Installing kitty ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+
+Reading state information...Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  kitty-doc kitty-shell-integration kitty-terminfo
+  kitty-doc kitty-shell-integration kitty-terminfo
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  kitty kitty-doc kitty-shell-integration kitty-terminfo
+  kitty kitty-doc kitty-shell-integration kitty-terminfo
+0 upgraded, 4 newly installed, 0 to remove and 2 not upgraded.
+Need to get 7,761 kB of archives.
+After this operation, 31.4 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 kitty-shell-integration all 0.32.2-1ubuntu0.1 [37.7 kB]
+0 upgraded, 4 newly installed, 0 to remove and 2 not upgraded.
+Need to get 7,761 kB of archives.
+After this operation, 31.4 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 kitty-shell-integration all 0.32.2-1ubuntu0.1 [37.7 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 kitty-terminfo all 0.32.2-1ubuntu0.1 [17.8 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 kitty-terminfo all 0.32.2-1ubuntu0.1 [17.8 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 kitty amd64 0.32.2-1ubuntu0.1 [5,965 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 kitty amd64 0.32.2-1ubuntu0.1 [5,965 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 kitty-doc all 0.32.2-1ubuntu0.1 [1,740 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble-updates/universe amd64 kitty-doc all 0.32.2-1ubuntu0.1 [1,740 kB]
+Fetched 7,761 kB in 4s (1,756 kB/s)
+Fetched 7,761 kB in 4s (1,756 kB/s)
+Selecting previously unselected package kitty-shell-integration.
+(Reading database ... Selecting previously unselected package kitty-shell-integration.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 287005 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 287005 files and directories currently installed.)
+Preparing to unpack .../kitty-shell-integration_0.32.2-1ubuntu0.1_all.deb ...
+Preparing to unpack .../kitty-shell-integration_0.32.2-1ubuntu0.1_all.deb ...
+Unpacking kitty-shell-integration (0.32.2-1ubuntu0.1) ...
+Unpacking kitty-shell-integration (0.32.2-1ubuntu0.1) ...
+Selecting previously unselected package kitty-terminfo.
+Selecting previously unselected package kitty-terminfo.
+Preparing to unpack .../kitty-terminfo_0.32.2-1ubuntu0.1_all.deb ...
+Preparing to unpack .../kitty-terminfo_0.32.2-1ubuntu0.1_all.deb ...
+Unpacking kitty-terminfo (0.32.2-1ubuntu0.1) ...
+Unpacking kitty-terminfo (0.32.2-1ubuntu0.1) ...
+Selecting previously unselected package kitty.
+Selecting previously unselected package kitty.
+Preparing to unpack .../kitty_0.32.2-1ubuntu0.1_amd64.deb ...
+Preparing to unpack .../kitty_0.32.2-1ubuntu0.1_amd64.deb ...
+Unpacking kitty (0.32.2-1ubuntu0.1) ...
+Unpacking kitty (0.32.2-1ubuntu0.1) ...
+Selecting previously unselected package kitty-doc.
+Selecting previously unselected package kitty-doc.
+Preparing to unpack .../kitty-doc_0.32.2-1ubuntu0.1_all.deb ...
+Preparing to unpack .../kitty-doc_0.32.2-1ubuntu0.1_all.deb ...
+Unpacking kitty-doc (0.32.2-1ubuntu0.1) ...
+Unpacking kitty-doc (0.32.2-1ubuntu0.1) ...
+Setting up kitty-doc (0.32.2-1ubuntu0.1) ...
+Setting up kitty-doc (0.32.2-1ubuntu0.1) ...
+Setting up kitty-terminfo (0.32.2-1ubuntu0.1) ...
+Setting up kitty-terminfo (0.32.2-1ubuntu0.1) ...
+Setting up kitty-shell-integration (0.32.2-1ubuntu0.1) ...
+Setting up kitty-shell-integration (0.32.2-1ubuntu0.1) ...
+Setting up kitty (0.32.2-1ubuntu0.1) ...
+Setting up kitty (0.32.2-1ubuntu0.1) ...
+/usr/lib/kitty/kitty/options/definition.py:4116: SyntaxWarning: invalid escape sequence '\e'
+  long_text='''
+/usr/lib/kitty/kitty/options/definition.py:4116: SyntaxWarning: invalid escape sequence '\e'
+  long_text='''
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m kitty was installed.
+[32m[OK](B[m nano is already installed. Skipping...
+[33m[NOTE](B[m Installing pavucontrol ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  libasound2-plugins pulseaudio-utils
+  libasound2-plugins pulseaudio-utils
+Suggested packages:
+  pulseaudio
+Recommended packages:
+  pulseaudio
+Suggested packages:
+  pulseaudio
+Recommended packages:
+  pulseaudio
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  libasound2-plugins pavucontrol pulseaudio-utils
+  libasound2-plugins pavucontrol pulseaudio-utils
+0 upgraded, 3 newly installed, 0 to remove and 2 not upgraded.
+Need to get 326 kB of archives.
+After this operation, 1,898 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libasound2-plugins amd64 1.2.7.1-1ubuntu5 [74.8 kB]
+0 upgraded, 3 newly installed, 0 to remove and 2 not upgraded.
+Need to get 326 kB of archives.
+After this operation, 1,898 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libasound2-plugins amd64 1.2.7.1-1ubuntu5 [74.8 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 pavucontrol amd64 5.0-2build3 [178 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 pavucontrol amd64 5.0-2build3 [178 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 pulseaudio-utils amd64 1:16.1+dfsg1-2ubuntu10 [73.3 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 pulseaudio-utils amd64 1:16.1+dfsg1-2ubuntu10 [73.3 kB]
+Fetched 326 kB in 3s (104 kB/s)
+Fetched 326 kB in 3s (104 kB/s)
+Selecting previously unselected package libasound2-plugins:amd64.
+(Reading database ... Selecting previously unselected package libasound2-plugins:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 287495 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 287495 files and directories currently installed.)
+Preparing to unpack .../libasound2-plugins_1.2.7.1-1ubuntu5_amd64.deb ...
+Preparing to unpack .../libasound2-plugins_1.2.7.1-1ubuntu5_amd64.deb ...
+Unpacking libasound2-plugins:amd64 (1.2.7.1-1ubuntu5) ...
+Unpacking libasound2-plugins:amd64 (1.2.7.1-1ubuntu5) ...
+Selecting previously unselected package pavucontrol.
+Selecting previously unselected package pavucontrol.
+Preparing to unpack .../pavucontrol_5.0-2build3_amd64.deb ...
+Preparing to unpack .../pavucontrol_5.0-2build3_amd64.deb ...
+Unpacking pavucontrol (5.0-2build3) ...
+Unpacking pavucontrol (5.0-2build3) ...
+Selecting previously unselected package pulseaudio-utils.
+Selecting previously unselected package pulseaudio-utils.
+Preparing to unpack .../pulseaudio-utils_1%3a16.1+dfsg1-2ubuntu10_amd64.deb ...
+Preparing to unpack .../pulseaudio-utils_1%3a16.1+dfsg1-2ubuntu10_amd64.deb ...
+Unpacking pulseaudio-utils (1:16.1+dfsg1-2ubuntu10) ...
+Unpacking pulseaudio-utils (1:16.1+dfsg1-2ubuntu10) ...
+Setting up libasound2-plugins:amd64 (1.2.7.1-1ubuntu5) ...
+Setting up libasound2-plugins:amd64 (1.2.7.1-1ubuntu5) ...
+Setting up pavucontrol (5.0-2build3) ...
+Setting up pavucontrol (5.0-2build3) ...
+Setting up pulseaudio-utils (1:16.1+dfsg1-2ubuntu10) ...
+Setting up pulseaudio-utils (1:16.1+dfsg1-2ubuntu10) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+[1A[K[32m[OK](B[m pavucontrol was installed.
+[33m[NOTE](B[m Installing playerctl ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  libplayerctl2
+  libplayerctl2
+Suggested packages:
+  audacious cmus mopidy mpd mpv quodlibet vlc
+Suggested packages:
+  audacious cmus mopidy mpd mpv quodlibet vlc
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  libplayerctl2 playerctl
+  libplayerctl2 playerctl
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 65.8 kB of archives.
+After this operation, 261 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libplayerctl2 amd64 2.4.1-2build2 [34.2 kB]
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 65.8 kB of archives.
+After this operation, 261 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libplayerctl2 amd64 2.4.1-2build2 [34.2 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 playerctl amd64 2.4.1-2build2 [31.6 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 playerctl amd64 2.4.1-2build2 [31.6 kB]
+Fetched 65.8 kB in 2s (37.4 kB/s)
+Fetched 65.8 kB in 2s (37.4 kB/s)
+Selecting previously unselected package libplayerctl2:amd64.
+(Reading database ... Selecting previously unselected package libplayerctl2:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 287661 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 287661 files and directories currently installed.)
+Preparing to unpack .../libplayerctl2_2.4.1-2build2_amd64.deb ...
+Preparing to unpack .../libplayerctl2_2.4.1-2build2_amd64.deb ...
+Unpacking libplayerctl2:amd64 (2.4.1-2build2) ...
+Unpacking libplayerctl2:amd64 (2.4.1-2build2) ...
+Selecting previously unselected package playerctl.
+Selecting previously unselected package playerctl.
+Preparing to unpack .../playerctl_2.4.1-2build2_amd64.deb ...
+Preparing to unpack .../playerctl_2.4.1-2build2_amd64.deb ...
+Unpacking playerctl (2.4.1-2build2) ...
+Unpacking playerctl (2.4.1-2build2) ...
+Setting up libplayerctl2:amd64 (2.4.1-2build2) ...
+Setting up libplayerctl2:amd64 (2.4.1-2build2) ...
+Setting up playerctl (2.4.1-2build2) ...
+Setting up playerctl (2.4.1-2build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+[1A[K[32m[OK](B[m playerctl was installed.
+[33m[NOTE](B[m Installing polkit-kde-agent-1 ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  kwayland-data kwayland-integration libkf5archive-data libkf5archive5
+  libkf5auth-data libkf5authcore5 libkf5codecs-data libkf5codecs5
+  libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5
+  libkf5configwidgets-data libkf5configwidgets5 libkf5coreaddons-data
+  libkf5coreaddons5 libkf5crash5 libkf5dbusaddons-bin libkf5dbusaddons-data
+  libkf5dbusaddons5 libkf5guiaddons-bin libkf5guiaddons-data libkf5guiaddons5
+  libkf5i18n-data libkf5i18n5 libkf5iconthemes-bin libkf5iconthemes-data
+  libkf5iconthemes5 libkf5waylandclient5 libkf5widgetsaddons-data
+  kwayland-data kwayland-integration libkf5archive-data libkf5archive5
+  libkf5auth-data libkf5authcore5 libkf5codecs-data libkf5codecs5
+  libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5
+  libkf5configwidgets-data libkf5configwidgets5 libkf5coreaddons-data
+  libkf5coreaddons5 libkf5crash5 libkf5dbusaddons-bin libkf5dbusaddons-data
+  libkf5dbusaddons5 libkf5guiaddons-bin libkf5guiaddons-data libkf5guiaddons5
+  libkf5i18n-data libkf5i18n5 libkf5iconthemes-bin libkf5iconthemes-data
+  libkf5iconthemes5 libkf5waylandclient5 libkf5widgetsaddons-data
+  libkf5widgetsaddons5 libkf5windowsystem-data libkf5windowsystem5
+  libpolkit-qt5-1-1 libqt5core5t64 libqt5dbus5t64 libqt5gui5t64
+  libkf5widgetsaddons5 libkf5windowsystem-data libkf5windowsystem5
+  libpolkit-qt5-1-1 libqt5core5t64 libqt5dbus5t64 libqt5gui5t64
+  libqt5network5t64 libqt5qml5 libqt5qmlmodels5 libqt5quick5 libqt5svg5
+  libqt5waylandclient5 libqt5waylandcompositor5 libqt5widgets5t64
+  libqt5network5t64 libqt5qml5 libqt5qmlmodels5 libqt5quick5 libqt5svg5
+  libqt5waylandclient5 libqt5waylandcompositor5 libqt5widgets5t64
+  libqt5x11extras5 qt5-gtk-platformtheme qttranslations5-l10n qtwayland5
+  libqt5x11extras5 qt5-gtk-platformtheme qttranslations5-l10n qtwayland5
+Suggested packages:
+  qgnomeplatform-qt5 qt5-image-formats-plugins qt5-qmltooling-plugins
+Suggested packages:
+  qgnomeplatform-qt5 qt5-image-formats-plugins qt5-qmltooling-plugins
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  kwayland-data kwayland-integration libkf5archive-data libkf5archive5
+  libkf5auth-data libkf5authcore5 libkf5codecs-data libkf5codecs5
+  libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5
+  libkf5configwidgets-data libkf5configwidgets5 libkf5coreaddons-data
+  libkf5coreaddons5 libkf5crash5 libkf5dbusaddons-bin libkf5dbusaddons-data
+  libkf5dbusaddons5 libkf5guiaddons-bin libkf5guiaddons-data libkf5guiaddons5
+  libkf5i18n-data libkf5i18n5 libkf5iconthemes-bin libkf5iconthemes-data
+  libkf5iconthemes5 libkf5waylandclient5 libkf5widgetsaddons-data
+  kwayland-data kwayland-integration libkf5archive-data libkf5archive5
+  libkf5auth-data libkf5authcore5 libkf5codecs-data libkf5codecs5
+  libkf5config-bin libkf5config-data libkf5configcore5 libkf5configgui5
+  libkf5configwidgets-data libkf5configwidgets5 libkf5coreaddons-data
+  libkf5coreaddons5 libkf5crash5 libkf5dbusaddons-bin libkf5dbusaddons-data
+  libkf5dbusaddons5 libkf5guiaddons-bin libkf5guiaddons-data libkf5guiaddons5
+  libkf5i18n-data libkf5i18n5 libkf5iconthemes-bin libkf5iconthemes-data
+  libkf5iconthemes5 libkf5waylandclient5 libkf5widgetsaddons-data
+  libkf5widgetsaddons5 libkf5windowsystem-data libkf5windowsystem5
+  libpolkit-qt5-1-1 libqt5core5t64 libqt5dbus5t64 libqt5gui5t64
+  libqt5network5t64 libqt5qml5 libqt5qmlmodels5 libqt5quick5 libqt5svg5
+  libqt5waylandclient5 libqt5waylandcompositor5 libqt5widgets5t64
+  libkf5widgetsaddons5 libkf5windowsystem-data libkf5windowsystem5
+  libpolkit-qt5-1-1 libqt5core5t64 libqt5dbus5t64 libqt5gui5t64
+  libqt5network5t64 libqt5qml5 libqt5qmlmodels5 libqt5quick5 libqt5svg5
+  libqt5waylandclient5 libqt5waylandcompositor5 libqt5widgets5t64
+  libqt5x11extras5 polkit-kde-agent-1 qt5-gtk-platformtheme
+  libqt5x11extras5 polkit-kde-agent-1 qt5-gtk-platformtheme
+  qttranslations5-l10n qtwayland5
+  qttranslations5-l10n qtwayland5
+0 upgraded, 50 newly installed, 0 to remove and 2 not upgraded.
+Need to get 21.3 MB of archives.
+After this operation, 101 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 kwayland-data all 4:5.115.0-0ubuntu5 [8,684 B]
+0 upgraded, 50 newly installed, 0 to remove and 2 not upgraded.
+Need to get 21.3 MB of archives.
+After this operation, 101 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 kwayland-data all 4:5.115.0-0ubuntu5 [8,684 B]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5core5t64 amd64 5.15.13+dfsg-1ubuntu1 [2,011 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5core5t64 amd64 5.15.13+dfsg-1ubuntu1 [2,011 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5dbus5t64 amd64 5.15.13+dfsg-1ubuntu1 [220 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5dbus5t64 amd64 5.15.13+dfsg-1ubuntu1 [220 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5network5t64 amd64 5.15.13+dfsg-1ubuntu1 [723 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5network5t64 amd64 5.15.13+dfsg-1ubuntu1 [723 kB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5gui5t64 amd64 5.15.13+dfsg-1ubuntu1 [3,748 kB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5gui5t64 amd64 5.15.13+dfsg-1ubuntu1 [3,748 kB]
+Get:6 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5waylandclient5 amd64 5.15.13-1 [405 kB]
+Get:6 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5waylandclient5 amd64 5.15.13-1 [405 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5waylandclient5 amd64 4:5.115.0-0ubuntu5 [229 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5waylandclient5 amd64 4:5.115.0-0ubuntu5 [229 kB]
+Get:8 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5windowsystem-data all 5.115.0-0ubuntu4 [13.0 kB]
+Get:8 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5windowsystem-data all 5.115.0-0ubuntu4 [13.0 kB]
+Get:9 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5widgets5t64 amd64 5.15.13+dfsg-1ubuntu1 [2,561 kB]
+Get:9 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5widgets5t64 amd64 5.15.13+dfsg-1ubuntu1 [2,561 kB]
+Get:10 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5x11extras5 amd64 5.15.13-1 [10.9 kB]
+Get:10 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5x11extras5 amd64 5.15.13-1 [10.9 kB]
+Get:11 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5windowsystem5 amd64 5.115.0-0ubuntu4 [154 kB]
+Get:11 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5windowsystem5 amd64 5.115.0-0ubuntu4 [154 kB]
+Get:12 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 kwayland-integration amd64 4:5.27.11-0ubuntu3 [33.2 kB]
+Get:12 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 kwayland-integration amd64 4:5.27.11-0ubuntu3 [33.2 kB]
+Get:13 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5archive-data all 5.115.0-0ubuntu5 [51.2 kB]
+Get:13 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5archive-data all 5.115.0-0ubuntu5 [51.2 kB]
+Get:14 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5archive5 amd64 5.115.0-0ubuntu5 [97.4 kB]
+Get:14 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5archive5 amd64 5.115.0-0ubuntu5 [97.4 kB]
+Get:15 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5auth-data all 5.115.0-0ubuntu5 [28.0 kB]
+Get:15 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5auth-data all 5.115.0-0ubuntu5 [28.0 kB]
+Get:16 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5coreaddons-data all 5.115.0-0ubuntu5 [149 kB]
+Get:16 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5coreaddons-data all 5.115.0-0ubuntu5 [149 kB]
+Get:17 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5coreaddons5 amd64 5.115.0-0ubuntu5 [274 kB]
+Get:17 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5coreaddons5 amd64 5.115.0-0ubuntu5 [274 kB]
+Get:18 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libpolkit-qt5-1-1 amd64 0.200.0-1build4 [60.0 kB]
+Get:18 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libpolkit-qt5-1-1 amd64 0.200.0-1build4 [60.0 kB]
+Get:19 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5authcore5 amd64 5.115.0-0ubuntu5 [57.5 kB]
+Get:19 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5authcore5 amd64 5.115.0-0ubuntu5 [57.5 kB]
+Get:20 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5codecs-data all 5.115.0-0ubuntu5 [55.2 kB]
+Get:20 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5codecs-data all 5.115.0-0ubuntu5 [55.2 kB]
+Get:21 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5codecs5 amd64 5.115.0-0ubuntu5 [98.3 kB]
+Get:21 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5codecs5 amd64 5.115.0-0ubuntu5 [98.3 kB]
+Get:22 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5config-data all 5.115.0-0ubuntu5 [105 kB]
+Get:22 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5config-data all 5.115.0-0ubuntu5 [105 kB]
+Get:23 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5configcore5 amd64 5.115.0-0ubuntu5 [147 kB]
+Get:23 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5configcore5 amd64 5.115.0-0ubuntu5 [147 kB]
+Get:24 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5config-bin amd64 5.115.0-0ubuntu5 [38.7 kB]
+Get:24 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5config-bin amd64 5.115.0-0ubuntu5 [38.7 kB]
+Get:25 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5configgui5 amd64 5.115.0-0ubuntu5 [52.2 kB]
+Get:25 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5configgui5 amd64 5.115.0-0ubuntu5 [52.2 kB]
+Get:26 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5configwidgets-data all 5.115.0-0ubuntu5 [246 kB]
+Get:26 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5configwidgets-data all 5.115.0-0ubuntu5 [246 kB]
+Get:27 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5guiaddons-bin amd64 5.115.0-0ubuntu5 [11.7 kB]
+Get:27 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5guiaddons-bin amd64 5.115.0-0ubuntu5 [11.7 kB]
+Get:28 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5guiaddons-data all 5.115.0-0ubuntu5 [7,736 B]
+Get:28 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5guiaddons-data all 5.115.0-0ubuntu5 [7,736 B]
+Get:29 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5guiaddons5 amd64 5.115.0-0ubuntu5 [85.0 kB]
+Get:29 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5guiaddons5 amd64 5.115.0-0ubuntu5 [85.0 kB]
+Get:30 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5i18n-data all 5.115.0-0ubuntu6 [1,201 kB]
+Get:30 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5i18n-data all 5.115.0-0ubuntu6 [1,201 kB]
+Get:31 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5qml5 amd64 5.15.13+dfsg-1 [1,482 kB]
+Get:31 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5qml5 amd64 5.15.13+dfsg-1 [1,482 kB]
+Get:32 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5i18n5 amd64 5.115.0-0ubuntu6 [120 kB]
+Get:32 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5i18n5 amd64 5.115.0-0ubuntu6 [120 kB]
+Get:33 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5widgetsaddons-data all 5.115.0-0ubuntu4 [1,195 kB]
+Get:33 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5widgetsaddons-data all 5.115.0-0ubuntu4 [1,195 kB]
+Get:34 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5widgetsaddons5 amd64 5.115.0-0ubuntu4 [417 kB]
+Get:34 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5widgetsaddons5 amd64 5.115.0-0ubuntu4 [417 kB]
+Get:35 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5configwidgets5 amd64 5.115.0-0ubuntu5 [155 kB]
+Get:35 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5configwidgets5 amd64 5.115.0-0ubuntu5 [155 kB]
+Get:36 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5crash5 amd64 5.115.0-0ubuntu5 [20.4 kB]
+Get:36 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5crash5 amd64 5.115.0-0ubuntu5 [20.4 kB]
+Get:37 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5dbusaddons-bin amd64 5.115.0-0ubuntu5 [10.3 kB]
+Get:37 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5dbusaddons-bin amd64 5.115.0-0ubuntu5 [10.3 kB]
+Get:38 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5dbusaddons-data all 5.115.0-0ubuntu5 [19.9 kB]
+Get:38 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5dbusaddons-data all 5.115.0-0ubuntu5 [19.9 kB]
+Get:39 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5dbusaddons5 amd64 5.115.0-0ubuntu5 [40.6 kB]
+Get:39 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5dbusaddons5 amd64 5.115.0-0ubuntu5 [40.6 kB]
+Get:40 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5iconthemes-data all 5.115.0-0ubuntu6 [32.7 kB]
+Get:40 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5iconthemes-data all 5.115.0-0ubuntu6 [32.7 kB]
+Get:41 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5svg5 amd64 5.15.13-1 [146 kB]
+Get:41 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5svg5 amd64 5.15.13-1 [146 kB]
+Get:42 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5iconthemes5 amd64 5.115.0-0ubuntu6 [103 kB]
+Get:42 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5iconthemes5 amd64 5.115.0-0ubuntu6 [103 kB]
+Get:43 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5iconthemes-bin amd64 5.115.0-0ubuntu6 [8,406 B]
+Get:43 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libkf5iconthemes-bin amd64 5.115.0-0ubuntu6 [8,406 B]
+Get:44 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5qmlmodels5 amd64 5.15.13+dfsg-1 [203 kB]
+Get:44 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5qmlmodels5 amd64 5.15.13+dfsg-1 [203 kB]
+Get:45 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5quick5 amd64 5.15.13+dfsg-1 [1,736 kB]
+Get:45 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5quick5 amd64 5.15.13+dfsg-1 [1,736 kB]
+Get:46 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5waylandcompositor5 amd64 5.15.13-1 [396 kB]
+Get:46 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqt5waylandcompositor5 amd64 5.15.13-1 [396 kB]
+Get:47 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 polkit-kde-agent-1 amd64 4:5.27.11-0ubuntu3 [67.6 kB]
+Get:47 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 polkit-kde-agent-1 amd64 4:5.27.11-0ubuntu3 [67.6 kB]
+Get:48 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5-gtk-platformtheme amd64 5.15.13+dfsg-1ubuntu1 [125 kB]
+Get:48 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5-gtk-platformtheme amd64 5.15.13+dfsg-1ubuntu1 [125 kB]
+Get:49 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qttranslations5-l10n all 5.15.13-1 [1,964 kB]
+Get:49 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qttranslations5-l10n all 5.15.13-1 [1,964 kB]
+Get:50 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qtwayland5 amd64 5.15.13-1 [223 kB]
+Get:50 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qtwayland5 amd64 5.15.13-1 [223 kB]
+Fetched 21.3 MB in 12s (1,794 kB/s)
+Fetched 21.3 MB in 12s (1,794 kB/s)
+Selecting previously unselected package kwayland-data.
+(Reading database ... Selecting previously unselected package kwayland-data.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 287681 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 287681 files and directories currently installed.)
+Preparing to unpack .../00-kwayland-data_4%3a5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../00-kwayland-data_4%3a5.115.0-0ubuntu5_all.deb ...
+Unpacking kwayland-data (4:5.115.0-0ubuntu5) ...
+Unpacking kwayland-data (4:5.115.0-0ubuntu5) ...
+Selecting previously unselected package libqt5core5t64:amd64.
+Selecting previously unselected package libqt5core5t64:amd64.
+Preparing to unpack .../01-libqt5core5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Preparing to unpack .../01-libqt5core5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Unpacking libqt5core5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Unpacking libqt5core5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Selecting previously unselected package libqt5dbus5t64:amd64.
+Selecting previously unselected package libqt5dbus5t64:amd64.
+Preparing to unpack .../02-libqt5dbus5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Preparing to unpack .../02-libqt5dbus5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Unpacking libqt5dbus5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Unpacking libqt5dbus5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Selecting previously unselected package libqt5network5t64:amd64.
+Selecting previously unselected package libqt5network5t64:amd64.
+Preparing to unpack .../03-libqt5network5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Preparing to unpack .../03-libqt5network5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Unpacking libqt5network5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Unpacking libqt5network5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Selecting previously unselected package libqt5gui5t64:amd64.
+Selecting previously unselected package libqt5gui5t64:amd64.
+Preparing to unpack .../04-libqt5gui5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Preparing to unpack .../04-libqt5gui5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Unpacking libqt5gui5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Unpacking libqt5gui5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Selecting previously unselected package libqt5waylandclient5:amd64.
+Selecting previously unselected package libqt5waylandclient5:amd64.
+Preparing to unpack .../05-libqt5waylandclient5_5.15.13-1_amd64.deb ...
+Preparing to unpack .../05-libqt5waylandclient5_5.15.13-1_amd64.deb ...
+Unpacking libqt5waylandclient5:amd64 (5.15.13-1) ...
+Unpacking libqt5waylandclient5:amd64 (5.15.13-1) ...
+Selecting previously unselected package libkf5waylandclient5:amd64.
+Selecting previously unselected package libkf5waylandclient5:amd64.
+Preparing to unpack .../06-libkf5waylandclient5_4%3a5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../06-libkf5waylandclient5_4%3a5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5waylandclient5:amd64 (4:5.115.0-0ubuntu5) ...
+Unpacking libkf5waylandclient5:amd64 (4:5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5windowsystem-data.
+Selecting previously unselected package libkf5windowsystem-data.
+Preparing to unpack .../07-libkf5windowsystem-data_5.115.0-0ubuntu4_all.deb ...
+Preparing to unpack .../07-libkf5windowsystem-data_5.115.0-0ubuntu4_all.deb ...
+Unpacking libkf5windowsystem-data (5.115.0-0ubuntu4) ...
+Unpacking libkf5windowsystem-data (5.115.0-0ubuntu4) ...
+Selecting previously unselected package libqt5widgets5t64:amd64.
+Selecting previously unselected package libqt5widgets5t64:amd64.
+Preparing to unpack .../08-libqt5widgets5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Preparing to unpack .../08-libqt5widgets5t64_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Unpacking libqt5widgets5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Unpacking libqt5widgets5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Selecting previously unselected package libqt5x11extras5:amd64.
+Selecting previously unselected package libqt5x11extras5:amd64.
+Preparing to unpack .../09-libqt5x11extras5_5.15.13-1_amd64.deb ...
+Preparing to unpack .../09-libqt5x11extras5_5.15.13-1_amd64.deb ...
+Unpacking libqt5x11extras5:amd64 (5.15.13-1) ...
+Unpacking libqt5x11extras5:amd64 (5.15.13-1) ...
+Selecting previously unselected package libkf5windowsystem5:amd64.
+Selecting previously unselected package libkf5windowsystem5:amd64.
+Preparing to unpack .../10-libkf5windowsystem5_5.115.0-0ubuntu4_amd64.deb ...
+Preparing to unpack .../10-libkf5windowsystem5_5.115.0-0ubuntu4_amd64.deb ...
+Unpacking libkf5windowsystem5:amd64 (5.115.0-0ubuntu4) ...
+Unpacking libkf5windowsystem5:amd64 (5.115.0-0ubuntu4) ...
+Selecting previously unselected package kwayland-integration:amd64.
+Selecting previously unselected package kwayland-integration:amd64.
+Preparing to unpack .../11-kwayland-integration_4%3a5.27.11-0ubuntu3_amd64.deb ...
+Preparing to unpack .../11-kwayland-integration_4%3a5.27.11-0ubuntu3_amd64.deb ...
+Unpacking kwayland-integration:amd64 (4:5.27.11-0ubuntu3) ...
+Unpacking kwayland-integration:amd64 (4:5.27.11-0ubuntu3) ...
+Selecting previously unselected package libkf5archive-data.
+Selecting previously unselected package libkf5archive-data.
+Preparing to unpack .../12-libkf5archive-data_5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../12-libkf5archive-data_5.115.0-0ubuntu5_all.deb ...
+Unpacking libkf5archive-data (5.115.0-0ubuntu5) ...
+Unpacking libkf5archive-data (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5archive5:amd64.
+Selecting previously unselected package libkf5archive5:amd64.
+Preparing to unpack .../13-libkf5archive5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../13-libkf5archive5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5archive5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5archive5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5auth-data.
+Selecting previously unselected package libkf5auth-data.
+Preparing to unpack .../14-libkf5auth-data_5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../14-libkf5auth-data_5.115.0-0ubuntu5_all.deb ...
+Unpacking libkf5auth-data (5.115.0-0ubuntu5) ...
+Unpacking libkf5auth-data (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5coreaddons-data.
+Selecting previously unselected package libkf5coreaddons-data.
+Preparing to unpack .../15-libkf5coreaddons-data_5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../15-libkf5coreaddons-data_5.115.0-0ubuntu5_all.deb ...
+Unpacking libkf5coreaddons-data (5.115.0-0ubuntu5) ...
+Unpacking libkf5coreaddons-data (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5coreaddons5:amd64.
+Selecting previously unselected package libkf5coreaddons5:amd64.
+Preparing to unpack .../16-libkf5coreaddons5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../16-libkf5coreaddons5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5coreaddons5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5coreaddons5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libpolkit-qt5-1-1:amd64.
+Selecting previously unselected package libpolkit-qt5-1-1:amd64.
+Preparing to unpack .../17-libpolkit-qt5-1-1_0.200.0-1build4_amd64.deb ...
+Preparing to unpack .../17-libpolkit-qt5-1-1_0.200.0-1build4_amd64.deb ...
+Unpacking libpolkit-qt5-1-1:amd64 (0.200.0-1build4) ...
+Unpacking libpolkit-qt5-1-1:amd64 (0.200.0-1build4) ...
+Selecting previously unselected package libkf5authcore5:amd64.
+Selecting previously unselected package libkf5authcore5:amd64.
+Preparing to unpack .../18-libkf5authcore5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../18-libkf5authcore5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5authcore5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5authcore5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5codecs-data.
+Selecting previously unselected package libkf5codecs-data.
+Preparing to unpack .../19-libkf5codecs-data_5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../19-libkf5codecs-data_5.115.0-0ubuntu5_all.deb ...
+Unpacking libkf5codecs-data (5.115.0-0ubuntu5) ...
+Unpacking libkf5codecs-data (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5codecs5:amd64.
+Selecting previously unselected package libkf5codecs5:amd64.
+Preparing to unpack .../20-libkf5codecs5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../20-libkf5codecs5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5codecs5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5codecs5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5config-data.
+Selecting previously unselected package libkf5config-data.
+Preparing to unpack .../21-libkf5config-data_5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../21-libkf5config-data_5.115.0-0ubuntu5_all.deb ...
+Unpacking libkf5config-data (5.115.0-0ubuntu5) ...
+Unpacking libkf5config-data (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5configcore5:amd64.
+Selecting previously unselected package libkf5configcore5:amd64.
+Preparing to unpack .../22-libkf5configcore5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../22-libkf5configcore5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5configcore5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5configcore5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5config-bin.
+Selecting previously unselected package libkf5config-bin.
+Preparing to unpack .../23-libkf5config-bin_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../23-libkf5config-bin_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5config-bin (5.115.0-0ubuntu5) ...
+Unpacking libkf5config-bin (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5configgui5:amd64.
+Selecting previously unselected package libkf5configgui5:amd64.
+Preparing to unpack .../24-libkf5configgui5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../24-libkf5configgui5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5configgui5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5configgui5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5configwidgets-data.
+Selecting previously unselected package libkf5configwidgets-data.
+Preparing to unpack .../25-libkf5configwidgets-data_5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../25-libkf5configwidgets-data_5.115.0-0ubuntu5_all.deb ...
+Unpacking libkf5configwidgets-data (5.115.0-0ubuntu5) ...
+Unpacking libkf5configwidgets-data (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5guiaddons-bin.
+Selecting previously unselected package libkf5guiaddons-bin.
+Preparing to unpack .../26-libkf5guiaddons-bin_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../26-libkf5guiaddons-bin_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5guiaddons-bin (5.115.0-0ubuntu5) ...
+Unpacking libkf5guiaddons-bin (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5guiaddons-data.
+Selecting previously unselected package libkf5guiaddons-data.
+Preparing to unpack .../27-libkf5guiaddons-data_5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../27-libkf5guiaddons-data_5.115.0-0ubuntu5_all.deb ...
+Unpacking libkf5guiaddons-data (5.115.0-0ubuntu5) ...
+Unpacking libkf5guiaddons-data (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5guiaddons5:amd64.
+Selecting previously unselected package libkf5guiaddons5:amd64.
+Preparing to unpack .../28-libkf5guiaddons5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../28-libkf5guiaddons5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5guiaddons5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5guiaddons5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5i18n-data.
+Selecting previously unselected package libkf5i18n-data.
+Preparing to unpack .../29-libkf5i18n-data_5.115.0-0ubuntu6_all.deb ...
+Preparing to unpack .../29-libkf5i18n-data_5.115.0-0ubuntu6_all.deb ...
+Unpacking libkf5i18n-data (5.115.0-0ubuntu6) ...
+Unpacking libkf5i18n-data (5.115.0-0ubuntu6) ...
+Selecting previously unselected package libqt5qml5:amd64.
+Selecting previously unselected package libqt5qml5:amd64.
+Preparing to unpack .../30-libqt5qml5_5.15.13+dfsg-1_amd64.deb ...
+Preparing to unpack .../30-libqt5qml5_5.15.13+dfsg-1_amd64.deb ...
+Unpacking libqt5qml5:amd64 (5.15.13+dfsg-1) ...
+Unpacking libqt5qml5:amd64 (5.15.13+dfsg-1) ...
+Selecting previously unselected package libkf5i18n5:amd64.
+Selecting previously unselected package libkf5i18n5:amd64.
+Preparing to unpack .../31-libkf5i18n5_5.115.0-0ubuntu6_amd64.deb ...
+Preparing to unpack .../31-libkf5i18n5_5.115.0-0ubuntu6_amd64.deb ...
+Unpacking libkf5i18n5:amd64 (5.115.0-0ubuntu6) ...
+Unpacking libkf5i18n5:amd64 (5.115.0-0ubuntu6) ...
+Selecting previously unselected package libkf5widgetsaddons-data.
+Selecting previously unselected package libkf5widgetsaddons-data.
+Preparing to unpack .../32-libkf5widgetsaddons-data_5.115.0-0ubuntu4_all.deb ...
+Preparing to unpack .../32-libkf5widgetsaddons-data_5.115.0-0ubuntu4_all.deb ...
+Unpacking libkf5widgetsaddons-data (5.115.0-0ubuntu4) ...
+Unpacking libkf5widgetsaddons-data (5.115.0-0ubuntu4) ...
+Selecting previously unselected package libkf5widgetsaddons5:amd64.
+Selecting previously unselected package libkf5widgetsaddons5:amd64.
+Preparing to unpack .../33-libkf5widgetsaddons5_5.115.0-0ubuntu4_amd64.deb ...
+Preparing to unpack .../33-libkf5widgetsaddons5_5.115.0-0ubuntu4_amd64.deb ...
+Unpacking libkf5widgetsaddons5:amd64 (5.115.0-0ubuntu4) ...
+Unpacking libkf5widgetsaddons5:amd64 (5.115.0-0ubuntu4) ...
+Selecting previously unselected package libkf5configwidgets5:amd64.
+Selecting previously unselected package libkf5configwidgets5:amd64.
+Preparing to unpack .../34-libkf5configwidgets5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../34-libkf5configwidgets5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5configwidgets5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5configwidgets5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5crash5:amd64.
+Selecting previously unselected package libkf5crash5:amd64.
+Preparing to unpack .../35-libkf5crash5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../35-libkf5crash5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5crash5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5crash5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5dbusaddons-bin.
+Selecting previously unselected package libkf5dbusaddons-bin.
+Preparing to unpack .../36-libkf5dbusaddons-bin_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../36-libkf5dbusaddons-bin_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5dbusaddons-bin (5.115.0-0ubuntu5) ...
+Unpacking libkf5dbusaddons-bin (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5dbusaddons-data.
+Selecting previously unselected package libkf5dbusaddons-data.
+Preparing to unpack .../37-libkf5dbusaddons-data_5.115.0-0ubuntu5_all.deb ...
+Preparing to unpack .../37-libkf5dbusaddons-data_5.115.0-0ubuntu5_all.deb ...
+Unpacking libkf5dbusaddons-data (5.115.0-0ubuntu5) ...
+Unpacking libkf5dbusaddons-data (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5dbusaddons5:amd64.
+Selecting previously unselected package libkf5dbusaddons5:amd64.
+Preparing to unpack .../38-libkf5dbusaddons5_5.115.0-0ubuntu5_amd64.deb ...
+Preparing to unpack .../38-libkf5dbusaddons5_5.115.0-0ubuntu5_amd64.deb ...
+Unpacking libkf5dbusaddons5:amd64 (5.115.0-0ubuntu5) ...
+Unpacking libkf5dbusaddons5:amd64 (5.115.0-0ubuntu5) ...
+Selecting previously unselected package libkf5iconthemes-data.
+Selecting previously unselected package libkf5iconthemes-data.
+Preparing to unpack .../39-libkf5iconthemes-data_5.115.0-0ubuntu6_all.deb ...
+Preparing to unpack .../39-libkf5iconthemes-data_5.115.0-0ubuntu6_all.deb ...
+Unpacking libkf5iconthemes-data (5.115.0-0ubuntu6) ...
+Unpacking libkf5iconthemes-data (5.115.0-0ubuntu6) ...
+Selecting previously unselected package libqt5svg5:amd64.
+Selecting previously unselected package libqt5svg5:amd64.
+Preparing to unpack .../40-libqt5svg5_5.15.13-1_amd64.deb ...
+Preparing to unpack .../40-libqt5svg5_5.15.13-1_amd64.deb ...
+Unpacking libqt5svg5:amd64 (5.15.13-1) ...
+Unpacking libqt5svg5:amd64 (5.15.13-1) ...
+Selecting previously unselected package libkf5iconthemes5:amd64.
+Selecting previously unselected package libkf5iconthemes5:amd64.
+Preparing to unpack .../41-libkf5iconthemes5_5.115.0-0ubuntu6_amd64.deb ...
+Preparing to unpack .../41-libkf5iconthemes5_5.115.0-0ubuntu6_amd64.deb ...
+Unpacking libkf5iconthemes5:amd64 (5.115.0-0ubuntu6) ...
+Unpacking libkf5iconthemes5:amd64 (5.115.0-0ubuntu6) ...
+Selecting previously unselected package libkf5iconthemes-bin.
+Selecting previously unselected package libkf5iconthemes-bin.
+Preparing to unpack .../42-libkf5iconthemes-bin_5.115.0-0ubuntu6_amd64.deb ...
+Preparing to unpack .../42-libkf5iconthemes-bin_5.115.0-0ubuntu6_amd64.deb ...
+Unpacking libkf5iconthemes-bin (5.115.0-0ubuntu6) ...
+Unpacking libkf5iconthemes-bin (5.115.0-0ubuntu6) ...
+Selecting previously unselected package libqt5qmlmodels5:amd64.
+Selecting previously unselected package libqt5qmlmodels5:amd64.
+Preparing to unpack .../43-libqt5qmlmodels5_5.15.13+dfsg-1_amd64.deb ...
+Preparing to unpack .../43-libqt5qmlmodels5_5.15.13+dfsg-1_amd64.deb ...
+Unpacking libqt5qmlmodels5:amd64 (5.15.13+dfsg-1) ...
+Unpacking libqt5qmlmodels5:amd64 (5.15.13+dfsg-1) ...
+Selecting previously unselected package libqt5quick5:amd64.
+Selecting previously unselected package libqt5quick5:amd64.
+Preparing to unpack .../44-libqt5quick5_5.15.13+dfsg-1_amd64.deb ...
+Preparing to unpack .../44-libqt5quick5_5.15.13+dfsg-1_amd64.deb ...
+Unpacking libqt5quick5:amd64 (5.15.13+dfsg-1) ...
+Unpacking libqt5quick5:amd64 (5.15.13+dfsg-1) ...
+Selecting previously unselected package libqt5waylandcompositor5:amd64.
+Selecting previously unselected package libqt5waylandcompositor5:amd64.
+Preparing to unpack .../45-libqt5waylandcompositor5_5.15.13-1_amd64.deb ...
+Preparing to unpack .../45-libqt5waylandcompositor5_5.15.13-1_amd64.deb ...
+Unpacking libqt5waylandcompositor5:amd64 (5.15.13-1) ...
+Unpacking libqt5waylandcompositor5:amd64 (5.15.13-1) ...
+Selecting previously unselected package polkit-kde-agent-1.
+Selecting previously unselected package polkit-kde-agent-1.
+Preparing to unpack .../46-polkit-kde-agent-1_4%3a5.27.11-0ubuntu3_amd64.deb ...
+Preparing to unpack .../46-polkit-kde-agent-1_4%3a5.27.11-0ubuntu3_amd64.deb ...
+Unpacking polkit-kde-agent-1 (4:5.27.11-0ubuntu3) ...
+Unpacking polkit-kde-agent-1 (4:5.27.11-0ubuntu3) ...
+Selecting previously unselected package qt5-gtk-platformtheme:amd64.
+Selecting previously unselected package qt5-gtk-platformtheme:amd64.
+Preparing to unpack .../47-qt5-gtk-platformtheme_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Preparing to unpack .../47-qt5-gtk-platformtheme_5.15.13+dfsg-1ubuntu1_amd64.deb ...
+Unpacking qt5-gtk-platformtheme:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Unpacking qt5-gtk-platformtheme:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Selecting previously unselected package qttranslations5-l10n.
+Selecting previously unselected package qttranslations5-l10n.
+Preparing to unpack .../48-qttranslations5-l10n_5.15.13-1_all.deb ...
+Preparing to unpack .../48-qttranslations5-l10n_5.15.13-1_all.deb ...
+Unpacking qttranslations5-l10n (5.15.13-1) ...
+Unpacking qttranslations5-l10n (5.15.13-1) ...
+Selecting previously unselected package qtwayland5:amd64.
+Selecting previously unselected package qtwayland5:amd64.
+Preparing to unpack .../49-qtwayland5_5.15.13-1_amd64.deb ...
+Preparing to unpack .../49-qtwayland5_5.15.13-1_amd64.deb ...
+Unpacking qtwayland5:amd64 (5.15.13-1) ...
+Unpacking qtwayland5:amd64 (5.15.13-1) ...
+Setting up libkf5codecs-data (5.115.0-0ubuntu5) ...
+Setting up libkf5codecs-data (5.115.0-0ubuntu5) ...
+Setting up libkf5config-data (5.115.0-0ubuntu5) ...
+Setting up libkf5config-data (5.115.0-0ubuntu5) ...
+Setting up libkf5i18n-data (5.115.0-0ubuntu6) ...
+Setting up libkf5i18n-data (5.115.0-0ubuntu6) ...
+Setting up libkf5auth-data (5.115.0-0ubuntu5) ...
+Setting up libkf5auth-data (5.115.0-0ubuntu5) ...
+Setting up libkf5windowsystem-data (5.115.0-0ubuntu4) ...
+Setting up libkf5windowsystem-data (5.115.0-0ubuntu4) ...
+Setting up libkf5configwidgets-data (5.115.0-0ubuntu5) ...
+Setting up libkf5configwidgets-data (5.115.0-0ubuntu5) ...
+Setting up libkf5coreaddons-data (5.115.0-0ubuntu5) ...
+Setting up libkf5coreaddons-data (5.115.0-0ubuntu5) ...
+Setting up libqt5core5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Setting up libqt5core5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Setting up qttranslations5-l10n (5.15.13-1) ...
+Setting up qttranslations5-l10n (5.15.13-1) ...
+Setting up libkf5dbusaddons-data (5.115.0-0ubuntu5) ...
+Setting up libkf5dbusaddons-data (5.115.0-0ubuntu5) ...
+Setting up libkf5iconthemes-data (5.115.0-0ubuntu6) ...
+Setting up libkf5iconthemes-data (5.115.0-0ubuntu6) ...
+Setting up libkf5guiaddons-data (5.115.0-0ubuntu5) ...
+Setting up libkf5guiaddons-data (5.115.0-0ubuntu5) ...
+Setting up libkf5archive-data (5.115.0-0ubuntu5) ...
+Setting up libkf5archive-data (5.115.0-0ubuntu5) ...
+Setting up libkf5widgetsaddons-data (5.115.0-0ubuntu4) ...
+Setting up libkf5widgetsaddons-data (5.115.0-0ubuntu4) ...
+Setting up kwayland-data (4:5.115.0-0ubuntu5) ...
+Setting up kwayland-data (4:5.115.0-0ubuntu5) ...
+Setting up libqt5dbus5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Setting up libqt5dbus5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Setting up libkf5codecs5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5codecs5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libqt5network5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Setting up libqt5network5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Setting up libkf5archive5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5archive5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5configcore5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5configcore5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libqt5gui5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Setting up libqt5gui5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+Setting up libqt5qml5:amd64 (5.15.13+dfsg-1) ...
+Setting up libqt5qml5:amd64 (5.15.13+dfsg-1) ...
+Setting up libkf5dbusaddons-bin (5.115.0-0ubuntu5) ...
+Setting up libkf5dbusaddons-bin (5.115.0-0ubuntu5) ...
+Setting up libkf5config-bin (5.115.0-0ubuntu5) ...
+Setting up libkf5config-bin (5.115.0-0ubuntu5) ...
+Setting up libkf5guiaddons-bin (5.115.0-0ubuntu5) ...
+Setting up libkf5guiaddons-bin (5.115.0-0ubuntu5) ...
+Setting up libkf5coreaddons5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5coreaddons5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libqt5x11extras5:amd64 (5.15.13-1) ...
+Setting up libqt5x11extras5:amd64 (5.15.13-1) ...
+Setting up libqt5qmlmodels5:amd64 (5.15.13+dfsg-1) ...
+Setting up libqt5qmlmodels5:amd64 (5.15.13+dfsg-1) ...
+Setting up libkf5i18n5:amd64 (5.115.0-0ubuntu6) ...
+Setting up libkf5i18n5:amd64 (5.115.0-0ubuntu6) ...
+Setting up libqt5widgets5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...Setting up libqt5widgets5t64:amd64 (5.15.13+dfsg-1ubuntu1) ...
+
+Setting up libkf5dbusaddons5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5dbusaddons5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libqt5svg5:amd64 (5.15.13-1) ...
+Setting up libqt5svg5:amd64 (5.15.13-1) ...
+Setting up qt5-gtk-platformtheme:amd64 (5.15.13+dfsg-1ubuntu1) ...Setting up qt5-gtk-platformtheme:amd64 (5.15.13+dfsg-1ubuntu1) ...
+
+Setting up libqt5waylandclient5:amd64 (5.15.13-1) ...Setting up libqt5waylandclient5:amd64 (5.15.13-1) ...
+
+Setting up libkf5configgui5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5configgui5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5crash5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5crash5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5waylandclient5:amd64 (4:5.115.0-0ubuntu5) ...Setting up libkf5waylandclient5:amd64 (4:5.115.0-0ubuntu5) ...
+
+Setting up libkf5windowsystem5:amd64 (5.115.0-0ubuntu4) ...
+Setting up libkf5windowsystem5:amd64 (5.115.0-0ubuntu4) ...
+Setting up libqt5quick5:amd64 (5.15.13+dfsg-1) ...Setting up libqt5quick5:amd64 (5.15.13+dfsg-1) ...
+
+Setting up libpolkit-qt5-1-1:amd64 (0.200.0-1build4) ...
+Setting up libpolkit-qt5-1-1:amd64 (0.200.0-1build4) ...
+Setting up kwayland-integration:amd64 (4:5.27.11-0ubuntu3) ...
+Setting up kwayland-integration:amd64 (4:5.27.11-0ubuntu3) ...
+Setting up libkf5authcore5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5authcore5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5widgetsaddons5:amd64 (5.115.0-0ubuntu4) ...
+Setting up libkf5widgetsaddons5:amd64 (5.115.0-0ubuntu4) ...
+Setting up libkf5guiaddons5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5guiaddons5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5configwidgets5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libkf5configwidgets5:amd64 (5.115.0-0ubuntu5) ...
+Setting up libqt5waylandcompositor5:amd64 (5.15.13-1) ...
+Setting up libqt5waylandcompositor5:amd64 (5.15.13-1) ...
+Setting up libkf5iconthemes5:amd64 (5.115.0-0ubuntu6) ...
+Setting up libkf5iconthemes5:amd64 (5.115.0-0ubuntu6) ...
+Setting up qtwayland5:amd64 (5.15.13-1) ...Setting up qtwayland5:amd64 (5.15.13-1) ...
+
+Setting up libkf5iconthemes-bin (5.115.0-0ubuntu6) ...Setting up libkf5iconthemes-bin (5.115.0-0ubuntu6) ...
+
+Setting up polkit-kde-agent-1 (4:5.27.11-0ubuntu3) ...
+Setting up polkit-kde-agent-1 (4:5.27.11-0ubuntu3) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for dbus (1.14.10-4ubuntu4.1) ...
+Processing triggers for dbus (1.14.10-4ubuntu4.1) ...
+Processing triggers for shared-mime-info (2.4-4) ...
+Processing triggers for shared-mime-info (2.4-4) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+[1A[K[32m[OK](B[m polkit-kde-agent-1 was installed.
+[32m[OK](B[m python3-requests is already installed. Skipping...
+[32m[OK](B[m python3-pip is already installed. Skipping...
+[33m[NOTE](B[m Installing qt5ct ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Suggested packages:
+  qt5-style-plugins
+Suggested packages:
+  qt5-style-plugins
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  qt5ct
+  qt5ct
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 224 kB of archives.
+After this operation, 947 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5ct amd64 1.5-1build11 [224 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 224 kB of archives.
+After this operation, 947 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5ct amd64 1.5-1build11 [224 kB]
+Fetched 224 kB in 2s (144 kB/s)
+Fetched 224 kB in 2s (144 kB/s)
+Selecting previously unselected package qt5ct.
+(Reading database ... Selecting previously unselected package qt5ct.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 289650 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 289650 files and directories currently installed.)
+Preparing to unpack .../qt5ct_1.5-1build11_amd64.deb ...
+Preparing to unpack .../qt5ct_1.5-1build11_amd64.deb ...
+Unpacking qt5ct (1.5-1build11) ...
+Unpacking qt5ct (1.5-1build11) ...
+Setting up qt5ct (1.5-1build11) ...
+Setting up qt5ct (1.5-1build11) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...Processing triggers for desktop-file-utils (0.27-2build1) ...
+
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m qt5ct was installed.
+[33m[NOTE](B[m Installing qt5-style-kvantum ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  qt5-style-kvantum-l10n qt5-style-kvantum-themes
+  qt5-style-kvantum-l10n qt5-style-kvantum-themes
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  qt5-style-kvantum qt5-style-kvantum-l10n qt5-style-kvantum-themes
+  qt5-style-kvantum qt5-style-kvantum-l10n qt5-style-kvantum-themes
+0 upgraded, 3 newly installed, 0 to remove and 2 not upgraded.
+Need to get 1,087 kB of archives.
+After this operation, 8,501 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5-style-kvantum-themes all 1.0.10-1build3 [306 kB]
+0 upgraded, 3 newly installed, 0 to remove and 2 not upgraded.
+Need to get 1,087 kB of archives.
+After this operation, 8,501 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5-style-kvantum-themes all 1.0.10-1build3 [306 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5-style-kvantum amd64 1.0.10-1build3 [565 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5-style-kvantum amd64 1.0.10-1build3 [565 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5-style-kvantum-l10n all 1.0.10-1build3 [217 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt5-style-kvantum-l10n all 1.0.10-1build3 [217 kB]
+Fetched 1,087 kB in 2s (477 kB/s)
+Fetched 1,087 kB in 2s (477 kB/s)
+Selecting previously unselected package qt5-style-kvantum-themes.
+(Reading database ... Selecting previously unselected package qt5-style-kvantum-themes.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 289676 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 289676 files and directories currently installed.)
+Preparing to unpack .../qt5-style-kvantum-themes_1.0.10-1build3_all.deb ...
+Preparing to unpack .../qt5-style-kvantum-themes_1.0.10-1build3_all.deb ...
+Unpacking qt5-style-kvantum-themes (1.0.10-1build3) ...
+Unpacking qt5-style-kvantum-themes (1.0.10-1build3) ...
+Selecting previously unselected package qt5-style-kvantum.
+Selecting previously unselected package qt5-style-kvantum.
+Preparing to unpack .../qt5-style-kvantum_1.0.10-1build3_amd64.deb ...
+Preparing to unpack .../qt5-style-kvantum_1.0.10-1build3_amd64.deb ...
+Unpacking qt5-style-kvantum (1.0.10-1build3) ...
+Unpacking qt5-style-kvantum (1.0.10-1build3) ...
+Selecting previously unselected package qt5-style-kvantum-l10n.
+Selecting previously unselected package qt5-style-kvantum-l10n.
+Preparing to unpack .../qt5-style-kvantum-l10n_1.0.10-1build3_all.deb ...
+Preparing to unpack .../qt5-style-kvantum-l10n_1.0.10-1build3_all.deb ...
+Unpacking qt5-style-kvantum-l10n (1.0.10-1build3) ...
+Unpacking qt5-style-kvantum-l10n (1.0.10-1build3) ...
+Setting up qt5-style-kvantum-l10n (1.0.10-1build3) ...
+Setting up qt5-style-kvantum-l10n (1.0.10-1build3) ...
+Setting up qt5-style-kvantum-themes (1.0.10-1build3) ...
+Setting up qt5-style-kvantum-themes (1.0.10-1build3) ...
+Setting up qt5-style-kvantum (1.0.10-1build3) ...
+Setting up qt5-style-kvantum (1.0.10-1build3) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+[1A[K[32m[OK](B[m qt5-style-kvantum was installed.
+[32m[OK](B[m qt5-style-kvantum-themes is already installed. Skipping...
+[33m[NOTE](B[m Installing qt6ct ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  qt6ct
+  qt6ct
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 183 kB of archives.
+After this operation, 794 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt6ct amd64 0.9-2build2 [183 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 183 kB of archives.
+After this operation, 794 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qt6ct amd64 0.9-2build2 [183 kB]
+Fetched 183 kB in 2s (79.9 kB/s)
+Fetched 183 kB in 2s (79.9 kB/s)
+Selecting previously unselected package qt6ct.
+(Reading database ... Selecting previously unselected package qt6ct.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 289915 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 289915 files and directories currently installed.)
+Preparing to unpack .../qt6ct_0.9-2build2_amd64.deb ...
+Preparing to unpack .../qt6ct_0.9-2build2_amd64.deb ...
+Unpacking qt6ct (0.9-2build2) ...
+Unpacking qt6ct (0.9-2build2) ...
+Setting up qt6ct (0.9-2build2) ...
+Setting up qt6ct (0.9-2build2) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...Processing triggers for desktop-file-utils (0.27-2build1) ...
+
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+[1A[K[32m[OK](B[m qt6ct was installed.
+[33m[NOTE](B[m Installing slurp ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  slurp
+  slurp
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 19.4 kB of archives.
+After this operation, 66.6 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 slurp amd64 1.5.0-1 [19.4 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 19.4 kB of archives.
+After this operation, 66.6 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 slurp amd64 1.5.0-1 [19.4 kB]
+Fetched 19.4 kB in 1s (16.2 kB/s)
+Fetched 19.4 kB in 1s (16.2 kB/s)
+Selecting previously unselected package slurp.
+(Reading database ... Selecting previously unselected package slurp.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 289944 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 289944 files and directories currently installed.)
+Preparing to unpack .../slurp_1.5.0-1_amd64.deb ...
+Preparing to unpack .../slurp_1.5.0-1_amd64.deb ...
+Unpacking slurp (1.5.0-1) ...
+Unpacking slurp (1.5.0-1) ...
+Setting up slurp (1.5.0-1) ...
+Setting up slurp (1.5.0-1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m slurp was installed.
+[33m[NOTE](B[m Installing sway-notification-center ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  libgtk-layer-shell0
+  libgtk-layer-shell0
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  libgtk-layer-shell0 sway-notification-center
+  libgtk-layer-shell0 sway-notification-center
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 218 kB of archives.
+After this operation, 934 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libgtk-layer-shell0 amd64 0.8.2-1build2 [56.8 kB]
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 218 kB of archives.
+After this operation, 934 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libgtk-layer-shell0 amd64 0.8.2-1build2 [56.8 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 sway-notification-center amd64 0.9.0-1build2 [161 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 sway-notification-center amd64 0.9.0-1build2 [161 kB]
+Fetched 218 kB in 2s (113 kB/s)
+Fetched 218 kB in 2s (113 kB/s)
+Selecting previously unselected package libgtk-layer-shell0.
+(Reading database ... Selecting previously unselected package libgtk-layer-shell0.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 289949 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 289949 files and directories currently installed.)
+Preparing to unpack .../libgtk-layer-shell0_0.8.2-1build2_amd64.deb ...
+Preparing to unpack .../libgtk-layer-shell0_0.8.2-1build2_amd64.deb ...
+Unpacking libgtk-layer-shell0 (0.8.2-1build2) ...
+Unpacking libgtk-layer-shell0 (0.8.2-1build2) ...
+Selecting previously unselected package sway-notification-center.
+Selecting previously unselected package sway-notification-center.
+Preparing to unpack .../sway-notification-center_0.9.0-1build2_amd64.deb ...
+Preparing to unpack .../sway-notification-center_0.9.0-1build2_amd64.deb ...
+Unpacking sway-notification-center (0.9.0-1build2) ...
+Unpacking sway-notification-center (0.9.0-1build2) ...
+Setting up libgtk-layer-shell0 (0.8.2-1build2) ...
+Setting up libgtk-layer-shell0 (0.8.2-1build2) ...
+Setting up sway-notification-center (0.9.0-1build2) ...
+Setting up sway-notification-center (0.9.0-1build2) ...
+Created symlink /etc/systemd/user/graphical-session.target.wants/swaync.service → /usr/lib/systemd/user/swaync.service.
+Created symlink /etc/systemd/user/graphical-session.target.wants/swaync.service → /usr/lib/systemd/user/swaync.service.
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libglib2.0-0t64:amd64 (2.80.0-6ubuntu3.1) ...
+Processing triggers for libglib2.0-0t64:amd64 (2.80.0-6ubuntu3.1) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+[1A[K[32m[OK](B[m sway-notification-center was installed.
+[33m[NOTE](B[m Installing waybar ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  libdate-tz3 libfmt9 libmpdclient2t64 libspdlog1.12
+  libdate-tz3 libfmt9 libmpdclient2t64 libspdlog1.12
+Suggested packages:
+  sway fonts-font-awesome
+Suggested packages:
+  sway fonts-font-awesome
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  libdate-tz3 libfmt9 libmpdclient2t64 libspdlog1.12 waybar
+  libdate-tz3 libfmt9 libmpdclient2t64 libspdlog1.12 waybar
+0 upgraded, 5 newly installed, 0 to remove and 2 not upgraded.
+Need to get 985 kB of archives.
+After this operation, 2,867 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libdate-tz3 amd64 3.0.1+ds-5build1 [39.0 kB]
+0 upgraded, 5 newly installed, 0 to remove and 2 not upgraded.
+Need to get 985 kB of archives.
+After this operation, 2,867 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libdate-tz3 amd64 3.0.1+ds-5build1 [39.0 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libfmt9 amd64 9.1.0+ds1-2 [63.0 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libfmt9 amd64 9.1.0+ds1-2 [63.0 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libmpdclient2t64 amd64 2.22-1.1build1 [48.4 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libmpdclient2t64 amd64 2.22-1.1build1 [48.4 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libspdlog1.12 amd64 1:1.12.0+ds-2build1 [147 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libspdlog1.12 amd64 1:1.12.0+ds-2build1 [147 kB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 waybar amd64 0.9.24-1build3 [688 kB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 waybar amd64 0.9.24-1build3 [688 kB]
+Fetched 985 kB in 2s (471 kB/s)
+Fetched 985 kB in 2s (471 kB/s)
+Selecting previously unselected package libdate-tz3:amd64.
+(Reading database ... Selecting previously unselected package libdate-tz3:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 289975 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 289975 files and directories currently installed.)
+Preparing to unpack .../libdate-tz3_3.0.1+ds-5build1_amd64.deb ...
+Preparing to unpack .../libdate-tz3_3.0.1+ds-5build1_amd64.deb ...
+Unpacking libdate-tz3:amd64 (3.0.1+ds-5build1) ...
+Unpacking libdate-tz3:amd64 (3.0.1+ds-5build1) ...
+Selecting previously unselected package libfmt9:amd64.
+Selecting previously unselected package libfmt9:amd64.
+Preparing to unpack .../libfmt9_9.1.0+ds1-2_amd64.deb ...
+Preparing to unpack .../libfmt9_9.1.0+ds1-2_amd64.deb ...
+Unpacking libfmt9:amd64 (9.1.0+ds1-2) ...
+Unpacking libfmt9:amd64 (9.1.0+ds1-2) ...
+Selecting previously unselected package libmpdclient2t64:amd64.
+Selecting previously unselected package libmpdclient2t64:amd64.
+Preparing to unpack .../libmpdclient2t64_2.22-1.1build1_amd64.deb ...
+Preparing to unpack .../libmpdclient2t64_2.22-1.1build1_amd64.deb ...
+Unpacking libmpdclient2t64:amd64 (2.22-1.1build1) ...
+Unpacking libmpdclient2t64:amd64 (2.22-1.1build1) ...
+Selecting previously unselected package libspdlog1.12:amd64.
+Selecting previously unselected package libspdlog1.12:amd64.
+Preparing to unpack .../libspdlog1.12_1%3a1.12.0+ds-2build1_amd64.deb ...
+Preparing to unpack .../libspdlog1.12_1%3a1.12.0+ds-2build1_amd64.deb ...
+Unpacking libspdlog1.12:amd64 (1:1.12.0+ds-2build1) ...
+Unpacking libspdlog1.12:amd64 (1:1.12.0+ds-2build1) ...
+Selecting previously unselected package waybar.
+Selecting previously unselected package waybar.
+Preparing to unpack .../waybar_0.9.24-1build3_amd64.deb ...
+Preparing to unpack .../waybar_0.9.24-1build3_amd64.deb ...
+Unpacking waybar (0.9.24-1build3) ...
+Unpacking waybar (0.9.24-1build3) ...
+Setting up libfmt9:amd64 (9.1.0+ds1-2) ...
+Setting up libfmt9:amd64 (9.1.0+ds1-2) ...
+Setting up libmpdclient2t64:amd64 (2.22-1.1build1) ...
+Setting up libmpdclient2t64:amd64 (2.22-1.1build1) ...
+Setting up libdate-tz3:amd64 (3.0.1+ds-5build1) ...
+Setting up libdate-tz3:amd64 (3.0.1+ds-5build1) ...
+Setting up libspdlog1.12:amd64 (1:1.12.0+ds-2build1) ...
+Setting up libspdlog1.12:amd64 (1:1.12.0+ds-2build1) ...
+Setting up waybar (0.9.24-1build3) ...
+Setting up waybar (0.9.24-1build3) ...
+Created symlink /etc/systemd/user/graphical-session.target.wants/waybar.service → /usr/lib/systemd/user/waybar.service.
+Created symlink /etc/systemd/user/graphical-session.target.wants/waybar.service → /usr/lib/systemd/user/waybar.service.
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+[1A[K[32m[OK](B[m waybar was installed.
+[32m[OK](B[m wget is already installed. Skipping...
+[32m[OK](B[m wl-clipboard is already installed. Skipping...
+[33m[NOTE](B[m Installing wlogout ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Suggested packages:
+  swaylock
+Suggested packages:
+  swaylock
+The following NEW packages will be installed:
+  wlogout
+The following NEW packages will be installed:
+  wlogout
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 60.6 kB of archives.
+After this operation, 180 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 wlogout amd64 1.1.1-3build2 [60.6 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 60.6 kB of archives.
+After this operation, 180 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 wlogout amd64 1.1.1-3build2 [60.6 kB]
+Fetched 60.6 kB in 1s (75.2 kB/s)
+Fetched 60.6 kB in 1s (75.2 kB/s)
+Selecting previously unselected package wlogout.
+(Reading database ... Selecting previously unselected package wlogout.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 290045 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 290045 files and directories currently installed.)
+Preparing to unpack .../wlogout_1.1.1-3build2_amd64.deb ...
+Preparing to unpack .../wlogout_1.1.1-3build2_amd64.deb ...
+Unpacking wlogout (1.1.1-3build2) ...
+Unpacking wlogout (1.1.1-3build2) ...
+Setting up wlogout (1.1.1-3build2) ...
+Setting up wlogout (1.1.1-3build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m wlogout was installed.
+[32m[OK](B[m xdg-user-dirs is already installed. Skipping...
+[32m[OK](B[m xdg-utils is already installed. Skipping...
+[33m[NOTE](B[m Installing yad ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  yad
+The following NEW packages will be installed:
+  yad
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 170 kB of archives.
+After this operation, 567 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 yad amd64 0.40.0-1build3 [170 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 170 kB of archives.
+After this operation, 567 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 yad amd64 0.40.0-1build3 [170 kB]
+Fetched 170 kB in 1s (149 kB/s)
+Fetched 170 kB in 1s (149 kB/s)
+Selecting previously unselected package yad.
+(Reading database ... Selecting previously unselected package yad.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 290073 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 290073 files and directories currently installed.)
+Preparing to unpack .../yad_0.40.0-1build3_amd64.deb ...
+Preparing to unpack .../yad_0.40.0-1build3_amd64.deb ...
+Unpacking yad (0.40.0-1build3) ...
+Unpacking yad (0.40.0-1build3) ...
+Setting up yad (0.40.0-1build3) ...
+Setting up yad (0.40.0-1build3) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+[1A[K[32m[OK](B[m yad was installed.
+[33m[NOTE](B[m Installing brightnessctl ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  brightness-udev
+  brightness-udev
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  brightness-udev brightnessctl
+  brightness-udev brightnessctl
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 17.7 kB of archives.
+After this operation, 62.5 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 brightness-udev all 0.5.1-3.1 [3,940 B]
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 17.7 kB of archives.
+After this operation, 62.5 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 brightness-udev all 0.5.1-3.1 [3,940 B]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 brightnessctl amd64 0.5.1-3.1 [13.7 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 brightnessctl amd64 0.5.1-3.1 [13.7 kB]
+Fetched 17.7 kB in 1s (19.3 kB/s)
+Fetched 17.7 kB in 1s (19.3 kB/s)
+Selecting previously unselected package brightness-udev.
+(Reading database ... Selecting previously unselected package brightness-udev.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... (Reading database ... 35%35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... (Reading database ... 70%70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 290096 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 290096 files and directories currently installed.)
+Preparing to unpack .../brightness-udev_0.5.1-3.1_all.deb ...
+Preparing to unpack .../brightness-udev_0.5.1-3.1_all.deb ...
+Unpacking brightness-udev (0.5.1-3.1) ...
+Unpacking brightness-udev (0.5.1-3.1) ...
+Selecting previously unselected package brightnessctl.
+Selecting previously unselected package brightnessctl.
+Preparing to unpack .../brightnessctl_0.5.1-3.1_amd64.deb ...
+Preparing to unpack .../brightnessctl_0.5.1-3.1_amd64.deb ...
+Unpacking brightnessctl (0.5.1-3.1) ...
+Unpacking brightnessctl (0.5.1-3.1) ...
+Setting up brightness-udev (0.5.1-3.1) ...
+Setting up brightness-udev (0.5.1-3.1) ...
+Setting up brightnessctl (0.5.1-3.1) ...
+Setting up brightnessctl (0.5.1-3.1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m brightnessctl was installed.
+[33m[NOTE](B[m Installing btop ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  btop
+  btop
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 566 kB of archives.
+After this operation, 1,620 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 btop amd64 1.3.0-1 [566 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 566 kB of archives.
+After this operation, 1,620 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 btop amd64 1.3.0-1 [566 kB]
+Fetched 566 kB in 1s (404 kB/s)
+Fetched 566 kB in 1s (404 kB/s)
+Selecting previously unselected package btop.
+(Reading database ... Selecting previously unselected package btop.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 290107 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 290107 files and directories currently installed.)
+Preparing to unpack .../btop_1.3.0-1_amd64.deb ...
+Preparing to unpack .../btop_1.3.0-1_amd64.deb ...
+Unpacking btop (1.3.0-1) ...
+Unpacking btop (1.3.0-1) ...
+Setting up btop (1.3.0-1) ...
+Setting up btop (1.3.0-1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m btop was installed.
+[33m[NOTE](B[m Installing cava ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  libiniparser1
+  libiniparser1
+Suggested packages:
+  pulseaudio
+Suggested packages:
+  pulseaudio
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  cava libiniparser1
+  cava libiniparser1
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 92.5 kB of archives.
+After this operation, 209 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libiniparser1 amd64 4.1-7build1 [10.5 kB]
+0 upgraded, 2 newly installed, 0 to remove and 2 not upgraded.
+Need to get 92.5 kB of archives.
+After this operation, 209 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/main amd64 libiniparser1 amd64 4.1-7build1 [10.5 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 cava amd64 0.7.4-1build2 [82.0 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 cava amd64 0.7.4-1build2 [82.0 kB]
+Fetched 92.5 kB in 2s (53.7 kB/s)
+Fetched 92.5 kB in 2s (53.7 kB/s)
+Selecting previously unselected package libiniparser1:amd64.
+(Reading database ... Selecting previously unselected package libiniparser1:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 290146 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 290146 files and directories currently installed.)
+Preparing to unpack .../libiniparser1_4.1-7build1_amd64.deb ...
+Preparing to unpack .../libiniparser1_4.1-7build1_amd64.deb ...
+Unpacking libiniparser1:amd64 (4.1-7build1) ...
+Unpacking libiniparser1:amd64 (4.1-7build1) ...
+Selecting previously unselected package cava.
+Selecting previously unselected package cava.
+Preparing to unpack .../cava_0.7.4-1build2_amd64.deb ...
+Preparing to unpack .../cava_0.7.4-1build2_amd64.deb ...
+Unpacking cava (0.7.4-1build2) ...
+Unpacking cava (0.7.4-1build2) ...
+Setting up libiniparser1:amd64 (4.1-7build1) ...
+Setting up libiniparser1:amd64 (4.1-7build1) ...
+Setting up cava (0.7.4-1build2) ...
+Setting up cava (0.7.4-1build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+[1A[K[32m[OK](B[m cava was installed.
+[32m[OK](B[m eog is already installed. Skipping...
+[32m[OK](B[m gnome-system-monitor is already installed. Skipping...
+[33m[NOTE](B[m Installing mousepad ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  libgtksourceview-4-0 libgtksourceview-4-common libmousepad0
+  libgtksourceview-4-0 libgtksourceview-4-common libmousepad0
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  libgtksourceview-4-0 libgtksourceview-4-common libmousepad0 mousepad
+  libgtksourceview-4-0 libgtksourceview-4-common libmousepad0 mousepad
+0 upgraded, 4 newly installed, 0 to remove and 2 not upgraded.
+Need to get 1,286 kB of archives.
+After this operation, 7,349 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libgtksourceview-4-common all 4.8.4-5build4 [590 kB]
+0 upgraded, 4 newly installed, 0 to remove and 2 not upgraded.
+Need to get 1,286 kB of archives.
+After this operation, 7,349 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libgtksourceview-4-common all 4.8.4-5build4 [590 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libgtksourceview-4-0 amd64 4.8.4-5build4 [233 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libgtksourceview-4-0 amd64 4.8.4-5build4 [233 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libmousepad0 amd64 0.6.1-1build2 [113 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libmousepad0 amd64 0.6.1-1build2 [113 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 mousepad amd64 0.6.1-1build2 [351 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 mousepad amd64 0.6.1-1build2 [351 kB]
+Fetched 1,286 kB in 4s (325 kB/s)
+Fetched 1,286 kB in 4s (325 kB/s)
+Selecting previously unselected package libgtksourceview-4-common.
+(Reading database ... Selecting previously unselected package libgtksourceview-4-common.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 290165 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 290165 files and directories currently installed.)
+Preparing to unpack .../libgtksourceview-4-common_4.8.4-5build4_all.deb ...
+Preparing to unpack .../libgtksourceview-4-common_4.8.4-5build4_all.deb ...
+Unpacking libgtksourceview-4-common (4.8.4-5build4) ...
+Unpacking libgtksourceview-4-common (4.8.4-5build4) ...
+Selecting previously unselected package libgtksourceview-4-0:amd64.
+Selecting previously unselected package libgtksourceview-4-0:amd64.
+Preparing to unpack .../libgtksourceview-4-0_4.8.4-5build4_amd64.deb ...
+Preparing to unpack .../libgtksourceview-4-0_4.8.4-5build4_amd64.deb ...
+Unpacking libgtksourceview-4-0:amd64 (4.8.4-5build4) ...
+Unpacking libgtksourceview-4-0:amd64 (4.8.4-5build4) ...
+Selecting previously unselected package libmousepad0:amd64.
+Selecting previously unselected package libmousepad0:amd64.
+Preparing to unpack .../libmousepad0_0.6.1-1build2_amd64.deb ...
+Preparing to unpack .../libmousepad0_0.6.1-1build2_amd64.deb ...
+Unpacking libmousepad0:amd64 (0.6.1-1build2) ...
+Unpacking libmousepad0:amd64 (0.6.1-1build2) ...
+Selecting previously unselected package mousepad.
+Selecting previously unselected package mousepad.
+Preparing to unpack .../mousepad_0.6.1-1build2_amd64.deb ...
+Preparing to unpack .../mousepad_0.6.1-1build2_amd64.deb ...
+Unpacking mousepad (0.6.1-1build2) ...
+Unpacking mousepad (0.6.1-1build2) ...
+Setting up libgtksourceview-4-common (4.8.4-5build4) ...
+Setting up libgtksourceview-4-common (4.8.4-5build4) ...
+Setting up libgtksourceview-4-0:amd64 (4.8.4-5build4) ...
+Setting up libgtksourceview-4-0:amd64 (4.8.4-5build4) ...
+Setting up libmousepad0:amd64 (0.6.1-1build2) ...
+Setting up libmousepad0:amd64 (0.6.1-1build2) ...
+Setting up mousepad (0.6.1-1build2) ...
+Setting up mousepad (0.6.1-1build2) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libglib2.0-0t64:amd64 (2.80.0-6ubuntu3.1) ...
+Processing triggers for libglib2.0-0t64:amd64 (2.80.0-6ubuntu3.1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+[1A[K[32m[OK](B[m mousepad was installed.
+[33m[NOTE](B[m Installing mpv ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  libdvdnav4 liblua5.2-0 libmujs3 libxpresent1 python3-brotli python3-mutagen
+  libdvdnav4 liblua5.2-0 libmujs3 libxpresent1 python3-brotli python3-mutagen
+  python3-pycryptodome python3-websockets yt-dlp
+  python3-pycryptodome python3-websockets yt-dlp
+Suggested packages:
+  libdvdcss2 libcuda1 python-mutagen-doc libfribidi-bin | bidiv phantomjs
+Suggested packages:
+  libdvdcss2 libcuda1 python-mutagen-doc libfribidi-bin | bidiv phantomjs
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  libdvdnav4 liblua5.2-0 libmujs3 libxpresent1 mpv python3-brotli
+  libdvdnav4 liblua5.2-0 libmujs3 libxpresent1 mpv python3-brotli
+  python3-mutagen python3-pycryptodome python3-websockets yt-dlp
+  python3-mutagen python3-pycryptodome python3-websockets yt-dlp
+0 upgraded, 10 newly installed, 0 to remove and 2 not upgraded.
+Need to get 5,095 kB of archives.
+After this operation, 21.0 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libdvdnav4 amd64 6.1.1-3build1 [39.5 kB]
+0 upgraded, 10 newly installed, 0 to remove and 2 not upgraded.
+Need to get 5,095 kB of archives.
+After this operation, 21.0 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libdvdnav4 amd64 6.1.1-3build1 [39.5 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 liblua5.2-0 amd64 5.2.4-3build2 [123 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 liblua5.2-0 amd64 5.2.4-3build2 [123 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libmujs3 amd64 1.3.3-3build2 [134 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libmujs3 amd64 1.3.3-3build2 [134 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libxpresent1 amd64 1.0.0-2build2 [7,380 B]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libxpresent1 amd64 1.0.0-2build2 [7,380 B]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 mpv amd64 0.37.0-1ubuntu4 [1,342 kB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 mpv amd64 0.37.0-1ubuntu4 [1,342 kB]
+Get:6 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 python3-brotli amd64 1.1.0-2build2 [332 kB]
+Get:6 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 python3-brotli amd64 1.1.0-2build2 [332 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 python3-mutagen all 1.46.0-2 [125 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 python3-mutagen all 1.46.0-2 [125 kB]
+Get:8 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 python3-pycryptodome amd64 3.20.0+dfsg-1 [1,089 kB]
+Get:8 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 python3-pycryptodome amd64 3.20.0+dfsg-1 [1,089 kB]
+Get:9 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 python3-websockets all 10.4-1 [64.0 kB]
+Get:9 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 python3-websockets all 10.4-1 [64.0 kB]
+Get:10 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 yt-dlp all 2024.04.09-1 [1,839 kB]
+Get:10 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 yt-dlp all 2024.04.09-1 [1,839 kB]
+Fetched 5,095 kB in 4s (1,177 kB/s)
+Fetched 5,095 kB in 4s (1,177 kB/s)
+Selecting previously unselected package libdvdnav4:amd64.
+(Reading database ... Selecting previously unselected package libdvdnav4:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 5%(Reading database ... 20%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 100%(Reading database ... 290528 files and directories currently installed.)
+(Reading database ... 290528 files and directories currently installed.)
+Preparing to unpack .../0-libdvdnav4_6.1.1-3build1_amd64.deb ...
+Preparing to unpack .../0-libdvdnav4_6.1.1-3build1_amd64.deb ...
+Unpacking libdvdnav4:amd64 (6.1.1-3build1) ...
+Unpacking libdvdnav4:amd64 (6.1.1-3build1) ...
+Selecting previously unselected package liblua5.2-0:amd64.
+Selecting previously unselected package liblua5.2-0:amd64.
+Preparing to unpack .../1-liblua5.2-0_5.2.4-3build2_amd64.deb ...
+Preparing to unpack .../1-liblua5.2-0_5.2.4-3build2_amd64.deb ...
+Unpacking liblua5.2-0:amd64 (5.2.4-3build2) ...
+Unpacking liblua5.2-0:amd64 (5.2.4-3build2) ...
+Selecting previously unselected package libmujs3:amd64.
+Selecting previously unselected package libmujs3:amd64.
+Preparing to unpack .../2-libmujs3_1.3.3-3build2_amd64.deb ...
+Preparing to unpack .../2-libmujs3_1.3.3-3build2_amd64.deb ...
+Unpacking libmujs3:amd64 (1.3.3-3build2) ...Unpacking libmujs3:amd64 (1.3.3-3build2) ...
+
+Selecting previously unselected package libxpresent1:amd64.
+Selecting previously unselected package libxpresent1:amd64.
+Preparing to unpack .../3-libxpresent1_1.0.0-2build2_amd64.deb ...
+Preparing to unpack .../3-libxpresent1_1.0.0-2build2_amd64.deb ...
+Unpacking libxpresent1:amd64 (1.0.0-2build2) ...
+Unpacking libxpresent1:amd64 (1.0.0-2build2) ...
+Selecting previously unselected package mpv.
+Selecting previously unselected package mpv.
+Preparing to unpack .../4-mpv_0.37.0-1ubuntu4_amd64.deb ...
+Preparing to unpack .../4-mpv_0.37.0-1ubuntu4_amd64.deb ...
+Unpacking mpv (0.37.0-1ubuntu4) ...
+Unpacking mpv (0.37.0-1ubuntu4) ...
+Selecting previously unselected package python3-brotli.
+Selecting previously unselected package python3-brotli.
+Preparing to unpack .../5-python3-brotli_1.1.0-2build2_amd64.deb ...
+Preparing to unpack .../5-python3-brotli_1.1.0-2build2_amd64.deb ...
+Unpacking python3-brotli (1.1.0-2build2) ...
+Unpacking python3-brotli (1.1.0-2build2) ...
+Selecting previously unselected package python3-mutagen.
+Selecting previously unselected package python3-mutagen.
+Preparing to unpack .../6-python3-mutagen_1.46.0-2_all.deb ...
+Preparing to unpack .../6-python3-mutagen_1.46.0-2_all.deb ...
+Unpacking python3-mutagen (1.46.0-2) ...
+Unpacking python3-mutagen (1.46.0-2) ...
+Selecting previously unselected package python3-pycryptodome.
+Selecting previously unselected package python3-pycryptodome.
+Preparing to unpack .../7-python3-pycryptodome_3.20.0+dfsg-1_amd64.deb ...
+Preparing to unpack .../7-python3-pycryptodome_3.20.0+dfsg-1_amd64.deb ...
+Unpacking python3-pycryptodome (3.20.0+dfsg-1) ...
+Unpacking python3-pycryptodome (3.20.0+dfsg-1) ...
+Selecting previously unselected package python3-websockets.
+Selecting previously unselected package python3-websockets.
+Preparing to unpack .../8-python3-websockets_10.4-1_all.deb ...
+Preparing to unpack .../8-python3-websockets_10.4-1_all.deb ...
+Unpacking python3-websockets (10.4-1) ...
+Unpacking python3-websockets (10.4-1) ...
+Selecting previously unselected package yt-dlp.
+Selecting previously unselected package yt-dlp.
+Preparing to unpack .../9-yt-dlp_2024.04.09-1_all.deb ...
+Preparing to unpack .../9-yt-dlp_2024.04.09-1_all.deb ...
+Unpacking yt-dlp (2024.04.09-1) ...
+Unpacking yt-dlp (2024.04.09-1) ...
+Setting up libmujs3:amd64 (1.3.3-3build2) ...
+Setting up libmujs3:amd64 (1.3.3-3build2) ...
+Setting up python3-pycryptodome (3.20.0+dfsg-1) ...
+Setting up python3-pycryptodome (3.20.0+dfsg-1) ...
+Setting up python3-mutagen (1.46.0-2) ...
+Setting up python3-mutagen (1.46.0-2) ...
+Setting up libxpresent1:amd64 (1.0.0-2build2) ...
+Setting up libxpresent1:amd64 (1.0.0-2build2) ...
+Setting up python3-brotli (1.1.0-2build2) ...
+Setting up python3-brotli (1.1.0-2build2) ...
+Setting up liblua5.2-0:amd64 (5.2.4-3build2) ...
+Setting up liblua5.2-0:amd64 (5.2.4-3build2) ...
+Setting up libdvdnav4:amd64 (6.1.1-3build1) ...
+Setting up libdvdnav4:amd64 (6.1.1-3build1) ...
+Setting up python3-websockets (10.4-1) ...
+Setting up python3-websockets (10.4-1) ...
+Setting up yt-dlp (2024.04.09-1) ...
+Setting up yt-dlp (2024.04.09-1) ...
+Setting up mpv (0.37.0-1ubuntu4) ...
+Setting up mpv (0.37.0-1ubuntu4) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+[1A[K[32m[OK](B[m mpv was installed.
+[33m[NOTE](B[m Installing mpv-mpris ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  mpv-mpris
+  mpv-mpris
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 12.1 kB of archives.
+After this operation, 47.1 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 mpv-mpris amd64 0.7.1-1build2 [12.1 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 12.1 kB of archives.
+After this operation, 47.1 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 mpv-mpris amd64 0.7.1-1build2 [12.1 kB]
+Fetched 12.1 kB in 5s (2,543 B/s)
+Fetched 12.1 kB in 5s (2,543 B/s)
+Selecting previously unselected package mpv-mpris.
+(Reading database ... Selecting previously unselected package mpv-mpris.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... (Reading database ... 10%(Reading database ... 15%10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 292195 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 292195 files and directories currently installed.)
+Preparing to unpack .../mpv-mpris_0.7.1-1build2_amd64.deb ...
+Preparing to unpack .../mpv-mpris_0.7.1-1build2_amd64.deb ...
+Unpacking mpv-mpris (0.7.1-1build2) ...
+Unpacking mpv-mpris (0.7.1-1build2) ...
+Setting up mpv-mpris (0.7.1-1build2) ...
+Setting up mpv-mpris (0.7.1-1build2) ...
+[1A[K[32m[OK](B[m mpv-mpris was installed.
+[33m[NOTE](B[m Installing nvtop ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  nvtop
+  nvtop
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 62.8 kB of archives.
+After this operation, 180 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/multiverse amd64 nvtop amd64 3.0.2-1 [62.8 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 62.8 kB of archives.
+After this operation, 180 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/multiverse amd64 nvtop amd64 3.0.2-1 [62.8 kB]
+Fetched 62.8 kB in 6s (10.6 kB/s)
+Fetched 62.8 kB in 6s (10.6 kB/s)
+Selecting previously unselected package nvtop.
+(Reading database ... Selecting previously unselected package nvtop.
+(Reading database ... (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 292202 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 292202 files and directories currently installed.)
+Preparing to unpack .../nvtop_3.0.2-1_amd64.deb ...
+Preparing to unpack .../nvtop_3.0.2-1_amd64.deb ...
+Unpacking nvtop (3.0.2-1) ...
+Unpacking nvtop (3.0.2-1) ...
+Setting up nvtop (3.0.2-1) ...
+Setting up nvtop (3.0.2-1) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+[1A[K[32m[OK](B[m nvtop was installed.
+[33m[NOTE](B[m Installing pamixer ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  pamixer
+  pamixer
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 85.7 kB of archives.
+After this operation, 259 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 pamixer amd64 1.6-1 [85.7 kB]
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 85.7 kB of archives.
+After this operation, 259 kB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 pamixer amd64 1.6-1 [85.7 kB]
+Fetched 85.7 kB in 6s (13.4 kB/s)
+Fetched 85.7 kB in 6s (13.4 kB/s)
+Selecting previously unselected package pamixer.
+(Reading database ... Selecting previously unselected package pamixer.
+(Reading database ... (Reading database ... 5%(Reading database ... 5%(Reading database ... 10%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 20%(Reading database ... 25%(Reading database ... 25%(Reading database ... 30%(Reading database ... 30%(Reading database ... 35%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 292210 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 292210 files and directories currently installed.)
+Preparing to unpack .../pamixer_1.6-1_amd64.deb ...
+Preparing to unpack .../pamixer_1.6-1_amd64.deb ...
+Unpacking pamixer (1.6-1) ...
+Unpacking pamixer (1.6-1) ...
+Setting up pamixer (1.6-1) ...
+Setting up pamixer (1.6-1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+[1A[K[32m[OK](B[m pamixer was installed.
+[33m[NOTE](B[m Installing qalculate-gtk ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+The following packages were automatically installed and are no longer required:
+The following packages were automatically installed and are no longer required:
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libapache2-mod-wsgi-py3 libatk-bridge2.0-dev libatk1.0-dev libatspi2.0-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libbrotli-dev libbz2-dev libcairo2-dev libdatrie-dev libdbus-1-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libegl1-mesa-dev libepoxy-dev libfontconfig-dev libfreetype-dev
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libfribidi-dev libgraphite2-dev libgulkan-0.15-0t64 libharfbuzz-cairo0
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libharfbuzz-dev libharfbuzz-subset0 libjpeg62 libnsl2 libpango1.0-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libpixman-1-dev libpng-dev libpng-tools libthai-dev libwayland-bin
+  libwayland-dev libxcomposite-dev libxcursor-dev libxdamage-dev libxext-dev
+  libxfixes-dev libxft-dev libxi-dev libxinerama-dev libxrandr-dev
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  libxrender-dev libxtst-dev pango1.0-tools postgresql-client-common
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+  wayland-protocols
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+The following additional packages will be installed:
+  aglfn gnuplot-data gnuplot-x11 libqalculate-data libqalculate22t64
+  aglfn gnuplot-data gnuplot-x11 libqalculate-data libqalculate22t64
+  libwxbase3.2-1t64 libwxgtk3.2-1t64 qalc
+  libwxbase3.2-1t64 libwxgtk3.2-1t64 qalc
+Suggested packages:
+  gnuplot-doc
+Suggested packages:
+  gnuplot-doc
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  aglfn gnuplot-data gnuplot-x11 libqalculate-data libqalculate22t64
+  aglfn gnuplot-data gnuplot-x11 libqalculate-data libqalculate22t64
+  libwxbase3.2-1t64 libwxgtk3.2-1t64 qalc qalculate-gtk
+  libwxbase3.2-1t64 libwxgtk3.2-1t64 qalc qalculate-gtk
+0 upgraded, 9 newly installed, 0 to remove and 2 not upgraded.
+Need to get 11.3 MB of archives.
+After this operation, 39.5 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 aglfn all 1.7+git20191031.4036a9c-2 [30.6 kB]
+0 upgraded, 9 newly installed, 0 to remove and 2 not upgraded.
+Need to get 11.3 MB of archives.
+After this operation, 39.5 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 aglfn all 1.7+git20191031.4036a9c-2 [30.6 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 gnuplot-data all 6.0.0+dfsg1-1ubuntu3 [75.3 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 gnuplot-data all 6.0.0+dfsg1-1ubuntu3 [75.3 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libwxbase3.2-1t64 amd64 3.2.4+dfsg-4build1 [899 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libwxbase3.2-1t64 amd64 3.2.4+dfsg-4build1 [899 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libwxgtk3.2-1t64 amd64 3.2.4+dfsg-4build1 [4,535 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libwxgtk3.2-1t64 amd64 3.2.4+dfsg-4build1 [4,535 kB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 gnuplot-x11 amd64 6.0.0+dfsg1-1ubuntu3 [1,145 kB]
+Get:5 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 gnuplot-x11 amd64 6.0.0+dfsg1-1ubuntu3 [1,145 kB]
+Get:6 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqalculate-data all 4.9.0-1.1build2 [312 kB]
+Get:6 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqalculate-data all 4.9.0-1.1build2 [312 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqalculate22t64 amd64 4.9.0-1.1build2 [1,766 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 libqalculate22t64 amd64 4.9.0-1.1build2 [1,766 kB]
+Get:8 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qalc amd64 4.9.0-1.1build2 [254 kB]
+Get:8 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qalc amd64 4.9.0-1.1build2 [254 kB]
+Get:9 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qalculate-gtk amd64 4.9.0-1build3 [2,291 kB]
+Get:9 http://in.archive.ubuntu.com/ubuntu noble/universe amd64 qalculate-gtk amd64 4.9.0-1build3 [2,291 kB]
+Fetched 11.3 MB in 13s (890 kB/s)
+Fetched 11.3 MB in 13s (890 kB/s)
+Selecting previously unselected package aglfn.
+(Reading database ... Selecting previously unselected package aglfn.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 292215 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 292215 files and directories currently installed.)
+Preparing to unpack .../0-aglfn_1.7+git20191031.4036a9c-2_all.deb ...
+Preparing to unpack .../0-aglfn_1.7+git20191031.4036a9c-2_all.deb ...
+Unpacking aglfn (1.7+git20191031.4036a9c-2) ...
+Unpacking aglfn (1.7+git20191031.4036a9c-2) ...
+Selecting previously unselected package gnuplot-data.
+Selecting previously unselected package gnuplot-data.
+Preparing to unpack .../1-gnuplot-data_6.0.0+dfsg1-1ubuntu3_all.deb ...
+Preparing to unpack .../1-gnuplot-data_6.0.0+dfsg1-1ubuntu3_all.deb ...
+Unpacking gnuplot-data (6.0.0+dfsg1-1ubuntu3) ...
+Unpacking gnuplot-data (6.0.0+dfsg1-1ubuntu3) ...
+Selecting previously unselected package libwxbase3.2-1t64:amd64.
+Selecting previously unselected package libwxbase3.2-1t64:amd64.
+Preparing to unpack .../2-libwxbase3.2-1t64_3.2.4+dfsg-4build1_amd64.deb ...
+Preparing to unpack .../2-libwxbase3.2-1t64_3.2.4+dfsg-4build1_amd64.deb ...
+Unpacking libwxbase3.2-1t64:amd64 (3.2.4+dfsg-4build1) ...
+Unpacking libwxbase3.2-1t64:amd64 (3.2.4+dfsg-4build1) ...
+Selecting previously unselected package libwxgtk3.2-1t64:amd64.
+Selecting previously unselected package libwxgtk3.2-1t64:amd64.
+Preparing to unpack .../3-libwxgtk3.2-1t64_3.2.4+dfsg-4build1_amd64.deb ...
+Preparing to unpack .../3-libwxgtk3.2-1t64_3.2.4+dfsg-4build1_amd64.deb ...
+Unpacking libwxgtk3.2-1t64:amd64 (3.2.4+dfsg-4build1) ...
+Unpacking libwxgtk3.2-1t64:amd64 (3.2.4+dfsg-4build1) ...
+Selecting previously unselected package gnuplot-x11.
+Selecting previously unselected package gnuplot-x11.
+Preparing to unpack .../4-gnuplot-x11_6.0.0+dfsg1-1ubuntu3_amd64.deb ...
+Preparing to unpack .../4-gnuplot-x11_6.0.0+dfsg1-1ubuntu3_amd64.deb ...
+Unpacking gnuplot-x11 (6.0.0+dfsg1-1ubuntu3) ...
+Unpacking gnuplot-x11 (6.0.0+dfsg1-1ubuntu3) ...
+Selecting previously unselected package libqalculate-data.
+Selecting previously unselected package libqalculate-data.
+Preparing to unpack .../5-libqalculate-data_4.9.0-1.1build2_all.deb ...
+Preparing to unpack .../5-libqalculate-data_4.9.0-1.1build2_all.deb ...
+Unpacking libqalculate-data (4.9.0-1.1build2) ...
+Unpacking libqalculate-data (4.9.0-1.1build2) ...
+Selecting previously unselected package libqalculate22t64:amd64.
+Selecting previously unselected package libqalculate22t64:amd64.
+Preparing to unpack .../6-libqalculate22t64_4.9.0-1.1build2_amd64.deb ...
+Preparing to unpack .../6-libqalculate22t64_4.9.0-1.1build2_amd64.deb ...
+Unpacking libqalculate22t64:amd64 (4.9.0-1.1build2) ...
+Unpacking libqalculate22t64:amd64 (4.9.0-1.1build2) ...
+Selecting previously unselected package qalc.
+Selecting previously unselected package qalc.
+Preparing to unpack .../7-qalc_4.9.0-1.1build2_amd64.deb ...
+Preparing to unpack .../7-qalc_4.9.0-1.1build2_amd64.deb ...
+Unpacking qalc (4.9.0-1.1build2) ...
+Unpacking qalc (4.9.0-1.1build2) ...
+Selecting previously unselected package qalculate-gtk.
+Selecting previously unselected package qalculate-gtk.
+Preparing to unpack .../8-qalculate-gtk_4.9.0-1build3_amd64.deb ...
+Preparing to unpack .../8-qalculate-gtk_4.9.0-1build3_amd64.deb ...
+Unpacking qalculate-gtk (4.9.0-1build3) ...
+Unpacking qalculate-gtk (4.9.0-1build3) ...
+Setting up libqalculate-data (4.9.0-1.1build2) ...
+Setting up libqalculate-data (4.9.0-1.1build2) ...
+Setting up aglfn (1.7+git20191031.4036a9c-2) ...
+Setting up aglfn (1.7+git20191031.4036a9c-2) ...
+Setting up libqalculate22t64:amd64 (4.9.0-1.1build2) ...
+Setting up libqalculate22t64:amd64 (4.9.0-1.1build2) ...
+Setting up libwxbase3.2-1t64:amd64 (3.2.4+dfsg-4build1) ...
+Setting up libwxbase3.2-1t64:amd64 (3.2.4+dfsg-4build1) ...
+Setting up libwxgtk3.2-1t64:amd64 (3.2.4+dfsg-4build1) ...
+Setting up libwxgtk3.2-1t64:amd64 (3.2.4+dfsg-4build1) ...
+Setting up gnuplot-data (6.0.0+dfsg1-1ubuntu3) ...
+Setting up gnuplot-data (6.0.0+dfsg1-1ubuntu3) ...
+Setting up qalc (4.9.0-1.1build2) ...
+Setting up qalc (4.9.0-1.1build2) ...
+Setting up qalculate-gtk (4.9.0-1build3) ...
+Setting up qalculate-gtk (4.9.0-1build3) ...
+update-alternatives: using /usr/bin/qalculate-gtk to provide /usr/bin/qalculate (qalculate) in auto mode
+update-alternatives: using /usr/bin/qalculate-gtk to provide /usr/bin/qalculate (qalculate) in auto mode
+Setting up gnuplot-x11 (6.0.0+dfsg1-1ubuntu3) ...
+Setting up gnuplot-x11 (6.0.0+dfsg1-1ubuntu3) ...
+update-alternatives: using /usr/bin/gnuplot-x11 to provide /usr/bin/gnuplot (gnuplot) in auto mode
+update-alternatives: using /usr/bin/gnuplot-x11 to provide /usr/bin/gnuplot (gnuplot) in auto mode
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+[1A[K[32m[OK](B[m qalculate-gtk was installed.
+[32m[OK](B[m vim is already installed. Skipping...

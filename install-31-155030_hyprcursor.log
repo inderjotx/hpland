@@ -1,0 +1,33 @@
+[32m[OK](B[m libzip-dev is already installed. Skipping...
+[33m[NOTE](B[m Installing librsvg2-dev ...
+Reading package lists...Reading package lists...
+
+Building dependency tree...Building dependency tree...
+Reading state information...
+Reading state information...
+
+Suggested packages:
+  librsvg2-doc
+Suggested packages:
+  librsvg2-doc
+The following NEW packages will be installed:
+The following NEW packages will be installed:
+  librsvg2-dev
+  librsvg2-dev
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 0 B/38.0 kB of archives.
+After this operation, 278 kB of additional disk space will be used.
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 0 B/38.0 kB of archives.
+After this operation, 278 kB of additional disk space will be used.
+Selecting previously unselected package librsvg2-dev:amd64.
+(Reading database ... Selecting previously unselected package librsvg2-dev:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 40%(Reading database ... 45%(Reading database ... 45%(Reading database ... 50%(Reading database ... 50%(Reading database ... 55%(Reading database ... 55%(Reading database ... 60%(Reading database ... 60%(Reading database ... 65%(Reading database ... 65%(Reading database ... 70%(Reading database ... 70%(Reading database ... 75%(Reading database ... 75%(Reading database ... 80%(Reading database ... 80%(Reading database ... 85%(Reading database ... 85%(Reading database ... 90%(Reading database ... 90%(Reading database ... 95%(Reading database ... 95%(Reading database ... 100%(Reading database ... 296484 files and directories currently installed.)
+(Reading database ... 100%(Reading database ... 296484 files and directories currently installed.)
+Preparing to unpack .../librsvg2-dev_2.58.0+dfsg-1build1_amd64.deb ...
+Preparing to unpack .../librsvg2-dev_2.58.0+dfsg-1build1_amd64.deb ...
+Unpacking librsvg2-dev:amd64 (2.58.0+dfsg-1build1) ...
+Unpacking librsvg2-dev:amd64 (2.58.0+dfsg-1build1) ...
+Setting up librsvg2-dev:amd64 (2.58.0+dfsg-1build1) ...
+Setting up librsvg2-dev:amd64 (2.58.0+dfsg-1build1) ...
+[1A[K[32m[OK](B[m librsvg2-dev was installed.

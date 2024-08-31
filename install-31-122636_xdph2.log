@@ -1,0 +1,47 @@
+make release
+make[1]: Entering directory '/home/inderharrysingh/hyperx/Ubuntu-Hyprland/xdg-desktop-portal-hyprland'
+cmake --no-warn-unused-cli -DCMAKE_BUILD_TYPE:STRING=Release -H./ -B./build -G Ninja
+Not searching for unused variables given on the command line.
+-- Configuring XDPH in Release with CMake
+-- Checking deps...
+-- Building with libsystemd v255
+-- Building with documentation
+-- Found WaylandScanner at /usr/bin/wayland-scanner
+-- Found wayland-protocols at //usr/share/wayland-protocols
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/inderharrysingh/hyperx/Ubuntu-Hyprland/xdg-desktop-portal-hyprland/build
+cmake --build ./build --config Release --target all -j
+[0/2] Re-checking globbed directories...
+[1/14] Building C object CMakeFiles/xdg-desktop-portal-hyprland.dir/protocols/wlr-screencopy-unstable-v1-protocol.c.o
+cc1: warning: command-line option ‘-fpermissive’ is valid for C++/ObjC++ but not for C
+cc1: note: unrecognized command-line option ‘-Wno-address-of-temporary’ may have been intended to silence earlier diagnostics
+[2/14] Building C object CMakeFiles/xdg-desktop-portal-hyprland.dir/protocols/wlr-foreign-toplevel-management-unstable-v1-protocol.c.o
+cc1: warning: command-line option ‘-fpermissive’ is valid for C++/ObjC++ but not for C
+cc1: note: unrecognized command-line option ‘-Wno-address-of-temporary’ may have been intended to silence earlier diagnostics
+[3/14] Building C object CMakeFiles/xdg-desktop-portal-hyprland.dir/protocols/hyprland-global-shortcuts-v1-protocol.c.o
+cc1: warning: command-line option ‘-fpermissive’ is valid for C++/ObjC++ but not for C
+cc1: note: unrecognized command-line option ‘-Wno-address-of-temporary’ may have been intended to silence earlier diagnostics
+[4/14] Building C object CMakeFiles/xdg-desktop-portal-hyprland.dir/protocols/hyprland-toplevel-export-v1-protocol.c.o
+cc1: warning: command-line option ‘-fpermissive’ is valid for C++/ObjC++ but not for C
+cc1: note: unrecognized command-line option ‘-Wno-address-of-temporary’ may have been intended to silence earlier diagnostics
+[5/14] Building C object CMakeFiles/xdg-desktop-portal-hyprland.dir/protocols/linux-dmabuf-unstable-v1-protocol.c.o
+cc1: warning: command-line option ‘-fpermissive’ is valid for C++/ObjC++ but not for C
+cc1: note: unrecognized command-line option ‘-Wno-address-of-temporary’ may have been intended to silence earlier diagnostics
+[6/14] Building CXX object CMakeFiles/xdg-desktop-portal-hyprland.dir/src/main.cpp.o
+[7/14] Building CXX object CMakeFiles/xdg-desktop-portal-hyprland.dir/src/shared/ToplevelManager.cpp.o
+[8/14] Building CXX object CMakeFiles/xdg-desktop-portal-hyprland.dir/src/shared/ScreencopyShared.cpp.o
+[9/14] Building CXX object CMakeFiles/xdg-desktop-portal-hyprland.dir/src/shared/Session.cpp.o
+[10/14] Building CXX object CMakeFiles/xdg-desktop-portal-hyprland.dir/src/core/PortalManager.cpp.o
+[11/14] Building CXX object CMakeFiles/xdg-desktop-portal-hyprland.dir/src/portals/GlobalShortcuts.cpp.o
+[12/14] Building CXX object CMakeFiles/xdg-desktop-portal-hyprland.dir/src/portals/Screencopy.cpp.o
+[13/14] Building CXX object CMakeFiles/xdg-desktop-portal-hyprland.dir/src/portals/Screenshot.cpp.o
+[14/14] Linking CXX executable xdg-desktop-portal-hyprland
+make[1]: Leaving directory '/home/inderharrysingh/hyperx/Ubuntu-Hyprland/xdg-desktop-portal-hyprland'
+cp -f ./build/hyprland-share-picker/hyprland-share-picker /usr/local/bin
+cp -f ./build/xdg-desktop-portal-hyprland /usr/lib/
+cp -f ./hyprland.portal /usr/share/xdg-desktop-portal/portals/
+sed "s|@libexecdir@|/usr/lib|g" ./org.freedesktop.impl.portal.desktop.hyprland.service.in > /usr/share/dbus-1/services/org.freedesktop.impl.portal.desktop.hyprland
+sed "s|@libexecdir@|/usr/lib|g" ./contrib/systemd/xdg-desktop-portal-hyprland.service.in > /usr/lib/systemd/user/xdg-desktop-portal-hyprland.service
+chmod 755 /usr/lib/xdg-desktop-portal-hyprland
+[32m[OK](B[m xdg-desktop-portal-hyprland installed successfully.

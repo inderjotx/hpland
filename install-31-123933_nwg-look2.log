@@ -1,0 +1,15 @@
+mkdir -p /usr/share/nwg-look
+mkdir -p /usr/share/nwg-look/langs
+mkdir -p /usr/bin
+mkdir -p /usr/share/applications
+mkdir -p /usr/share/pixmaps
+mkdir -p /usr/share/doc/nwg-look
+mkdir -p /usr/share/licenses/nwg-look
+cp stuff/main.glade /usr/share/nwg-look/
+cp langs/* /usr/share/nwg-look/langs/
+cp stuff/nwg-look.desktop /usr/share/applications/
+cp stuff/nwg-look.svg /usr/share/pixmaps/
+cp bin/nwg-look /usr/bin
+cp README.md /usr/share/doc/nwg-look
+cp LICENSE /usr/share/licenses/nwg-look
+[32m[OK](B[m nwg-look installed successfully.

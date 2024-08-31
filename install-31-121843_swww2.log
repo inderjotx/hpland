@@ -1,0 +1,44 @@
+[32m[OK](B[m cargo is already installed. Skipping...
+[32m[OK](B[m liblz4-dev is already installed. Skipping...
+[32m[OK](B[m rustc is already installed. Skipping...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  gir1.2-dbusmenu-gtk3-0.4 libdbusmenu-glib-dev libgulkan-0.15-0t64 libjpeg62
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 2 not upgraded.
+Need to get 0 B/6,053 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 296482 files and directories currently installed.)
+Preparing to unpack .../cargo_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Unpacking cargo (1.75.0+dfsg0ubuntu1-0ubuntu7.1) over (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up cargo (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  gir1.2-dbusmenu-gtk3-0.4 libdbusmenu-glib-dev libgulkan-0.15-0t64 libjpeg62
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 2 not upgraded.
+Need to get 0 B/87.6 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 296482 files and directories currently installed.)
+Preparing to unpack .../liblz4-dev_1.9.4-1build1.1_amd64.deb ...
+Unpacking liblz4-dev:amd64 (1.9.4-1build1.1) over (1.9.4-1build1.1) ...
+Setting up liblz4-dev:amd64 (1.9.4-1build1.1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  gir1.2-dbusmenu-gtk3-0.4 libdbusmenu-glib-dev libgulkan-0.15-0t64 libjpeg62
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 1 reinstalled, 0 to remove and 2 not upgraded.
+Need to get 0 B/3,183 kB of archives.
+After this operation, 0 B of additional disk space will be used.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 296482 files and directories currently installed.)
+Preparing to unpack .../rustc_1.75.0+dfsg0ubuntu1-0ubuntu7.1_amd64.deb ...
+Unpacking rustc (1.75.0+dfsg0ubuntu1-0ubuntu7.1) over (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Setting up rustc (1.75.0+dfsg0ubuntu1-0ubuntu7.1) ...
+Processing triggers for man-db (2.12.0-4build2) ...
